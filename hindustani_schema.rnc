@@ -1,0 +1,12 @@
+start = book
+book = element book { p+ }
+
+p = element p { s+ }
+
+s = element s { o, t, c? }
+
+o = element o { text }
+
+t = element t { text }
+
+c = element c { text }

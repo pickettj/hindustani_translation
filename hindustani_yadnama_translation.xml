@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="hindustani_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<book>
+    <p><s>
+        <o>Маълуми Шумо бод, ки камина Муҳаммадҷон писари Ҳоҷӣ Мулло Рустам дар санаи 1310 ҳиҷрӣ
+            мутобиқ ба с. 1892 мулодӣ дар деҳаи Чорбоғ - наздикии оромгоҳи Хӯҷа Муҳаммадҷон Валӣ
+            воқеъ дар музофоти Хӯқанд чашм ба олам кушода, тарбия ёфтааст.</o>
+        <t>May it be known that the humble Muhammad-jan, son of Hojji Mulla Rustam, was born and
+            raised in the village of Charbagh, near the shrine of Khoja Muhammad-jan Wali, located
+            near Khoqand.</t>
+    </s></p>
+    <p>
+        <s>
+            <o>Бино ба ҳикояи қиблагоҳам, он кас дар шаҳрҳои Хӯқанд ва Самарканд таҳсили улум кардаанд.</o>
+        <t>Based on the stories told by my father, he studied in the cities of Khujand and Samarqand</t>
+            <c>The author has in mind madrasa-level study, not primary schooling.</c>
+        </s>
+        
+    </p>
+
+</book>

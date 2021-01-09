@@ -5,8 +5,15 @@ p = element p { s+ }
 
 s = element s { o, t, c? }
 
-o = element o { text }
+o = element o { mixed { ref*, pg? } }
 
 t = element t { text }
 
 c = element c { text }
+
+# reference to another text
+ref = element ref { text }
+
+pg = element pg { no, empty }
+
+no = attribute no { text }

@@ -2,21 +2,67 @@
 <?xml-model href="hindustani_schema.rnc" type="application/relax-ng-compact-syntax"?>
 
 <book>
-    <p><s>
-        <o>Маълуми Шумо бод, ки камина Муҳаммадҷон писари Ҳоҷӣ Мулло Рустам дар санаи 1310 ҳиҷрӣ
-            мутобиқ ба с. 1892 мулодӣ дар деҳаи Чорбоғ - наздикии оромгоҳи Хӯҷа Муҳаммадҷон Валӣ
-            воқеъ дар музофоти Хӯқанд чашм ба олам кушода, тарбия ёфтааст.</o>
-        <t>May it be known that the humble Muhammad-jan, son of Hojji Mulla Rustam, was born and
-            raised in the village of Charbagh, near the shrine of Khoja Muhammad-jan Wali, located
-            near Khoqand.</t>
-    </s></p>
     <p>
         <s>
-            <o>Бино ба ҳикояи қиблагоҳам, он кас дар шаҳрҳои Хӯқанд ва Самарканд таҳсили улум кардаанд.</o>
-        <t>Based on the stories told by my father, he studied in the cities of Khujand and Samarqand</t>
+            <o>Маълуми Шумо бод, ки камина Муҳаммадҷон писари Ҳоҷӣ Мулло Рустам дар санаи 1310 ҳиҷрӣ
+                мутобиқ ба с. 1892 мулодӣ дар деҳаи Чорбоғ - наздикии оромгоҳи Хӯҷа Муҳаммадҷон Валӣ
+                воқеъ дар музофоти Хӯқанд чашм ба олам кушода, тарбия ёфтааст.</o>
+            <t>May it be known that the humble Muhammad-jan, son of Hojji Mulla Rustam, was born and
+                raised in the village of Charbagh, near the shrine of Khoja Muhammad-jan Wali,
+                located near Khoqand.</t>
+        </s>
+    </p>
+    <p>
+        <s>
+            <o>Бино ба ҳикояи қиблагоҳам, он кас дар шаҳрҳои Хӯқанд ва Самарканд таҳсили улум
+                кардаанд.</o>
+            <t>Based on the stories told by my father, he studied in the cities of Khujand and
+                Samarqand</t>
             <c>The author has in mind madrasa-level study, not primary schooling.</c>
+        </s>
+        <s>
+            <o>Ман аз ишон <ref>Фарзи айн</ref> у <ref>Фиқҳи кайдоӣ</ref> инчунин аз
+                    <ref>Мухтасар</ref> то Китоби никоҳ-ро омӯхтам.</o>
+            <t>My father taught me the Farzi-i Ayn, the Fiqh-i Kidani, and the Mukhtasar (up to the
+                book on marriage).</t>
+            <c>By Фиқҳи қайдоӣ the author /or transcriber must have in mind the Fiqh-i Kidani, a
+                14th-century work of jurisprudence. These works were part of the Central Asian
+                madrasa curriculum: see Pickett, Polymaths of Islam, pp.</c>
+
+        </s>
+        <s>
+            <o>Барои қорӣ шуданам шавқу ҳаваси зиёде доштанд.</o>
+            <t>My father greatly desired that I become a Qur'an reciter.</t>
+        </s>
+        <s>
+            <o>Дар ин хусус гуфта буданд: Ҳангоми таҳсилам дар Хӯканд дар моҳи Рамазон дар мадраса
+                хатим сурат гирифт.</o>
+            <t>In this regard (my father) once told me that while he was studying in Khoqand in the
+                month of Ramadan he had begun to recite the entire Qur'an in the madrasa.</t>
+        </s>
+        <s>
+            <o>Як қорӣ ба қироъати хатм машғул шуд, ки хеле хушовоз ва номаш Муҳаммадҷон-қорӣ
+                будааст.</o>
+            <t>Another student was also engaged in reciting the entire Qur'an who had a lovely
+                voice, and his name was Muhammad-jan Qari.</t>
+        </s>
+        <s>
+            <o>Ман ба Худо аҳд кардам, ки агар зан гирам ва Худо ба ман писар диҳад, номашро
+                Муҳаммадҷон монда, қорӣ хоҳам кард.</o>
+            <t>My father vowed to God that if he takes a wife and is granted a son, he would name
+                him Muhammad-jan and make him a Qur'an reciter.</t>
+        </s>
+        <s>
+            <o>Худои таъоло мувофиқи талабам ба ман чунин бахтро насиб гардонд, ки як марди
+                соҳибкирому бузургвор маро аз мадраса <pg no="116"/> бурда, духтарашро никоҳ карда
+                дод.</o>
+            <t>God Almighty granted my father's request with such fortune that a great man took me from the
+                madrasa and gave me his daughter's hand in marriage.</t>
+        </s>
+        <s>
+            <o>Бо иродаи Худованд ту ба дунё оматӣ.</o>
+            <t>And, according to my father, this is how I (Hindustani) came into the world.</t>
         </s>
         
     </p>
-
 </book>

@@ -1,3 +1,6 @@
+
+# note: add <q> for quoted speech, following TEI
+
 start = book
 book = element book { p+ }
 

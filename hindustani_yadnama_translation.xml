@@ -465,12 +465,68 @@
       </s>
       <s>
         <o>Самараи хубе дод, ки баъди намоз як одам пурсид: <q>Қории қироъаткарда кист?</q></o>
+        <t>My recitation made such an impression that after prayer someone asked: Who was reciting?</t>
+      </s>
+      <s>
+        <o><q>Ман,</q> ҷавоб додам</o>
+        <t>I replied that it was me.</t>
+      </s>
+      <s>
+        <o>Шуморо ҳазрати Эшон даъват мекунанд гуфта, маро ба чиллахона даровард.</o>
+        <t>Saying that Hazrat Eshan was inviting me, he took me to the Chillakhana.</t>
+        <!-- translate chillakhana? if so, how? -->
+      </s>
+      <s>
+        <o>Ҳазратро зиёрат кардам.</o>
+        <t>I visited the Hazrat.</t>
+      </s>
+      <s>
+        <o>Ҳазрати Эшон аз аҳворам пурсон шуданд: <q>Бароӣ чӣ ба Бухоро омадед?</q></o>
+        <t>Hazrat Eshan asked about my status: WHy have you come to Bukhara?</t>
+      </s>
+      <s>
+        <o><q>Барои таҳсил,</q> гуфтам.</o>
+        <t>For study, I replied.</t>
+      </s>
+      <s>
+        <o><q>Қории мураттаб хастед?</q> суол карданд.</o>
         <t></t>
+        <!-- decide how to translate murattab in this context -->
       </s>
       <s>
         <o></o>
         <t></t>
       </s>
-
+      <s>
+        <o><q>Бале,</q> ҷавоб гуфтам.</o>
+        <t>Yes, I replied.</t>
+      </s>
+      <s>
+        <o><q>Сураи Музаммид-ро қироат кунед,</q> гуфтанд.</o>
+        <t>Read the Muzammid Surah, he said.</t>
+      </s>
+      <s>
+        <o></o>
+        <t></t>
+      </s>
+      <s>
+        <o>Қироъат кардам.</o>
+        <t>And so I recited.</t>
+      </s>
+    </p>
+    <p>
+      <s>
+        <o>Ҳазрати Эшон хеле таҳсин карданд.</o>
+        <t>Hazrat Eshan showered me with praise.</t>
+      </s>
+      <s>
+        <o>Писари хурдашонро даъват карда, тавсия доданд, ки ин рафиқатро ба ҳуҷра бар.</o>
+        <t></t>
+        <!-- decide how exactly how to translate end of this sentence. -->
+      </s>
+      <s>
+        <o></o>
+        <t></t>
+      </s>
     </p>
 </book>

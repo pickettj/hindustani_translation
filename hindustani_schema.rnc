@@ -1,22 +1,29 @@
 
-# note: add <q> for quoted speech, following TEI
-
 start = book
 book = element book { p+ }
 
+# Paragraphs
 p = element p { s+ }
+    #sentence
+    s = element s { o, t, c* }
+        #original
+        o = element o { mixed { q* & ref* & pg? } }
+            #direct speech
+            q = element q { mixed { pg?, ref* } }
+            # reference to another text
+            # <q> for quoted speech, following TEI
+            ref = element ref { text }
+            # page breaks of the 2003 Tajik publication
+            pg = element pg { no, empty }
+                #page number of the original 2003 Tajik publication
+                no = attribute no { text }
+        #translation (English)
+        t = element t { mixed { q* } }
+        #commentary / gloss
+        c = element c { mixed { c_type } }
+            # what type of explanatory gloss?
+            c_type = attribute type { "hist" | "ling" }
+        
 
-s = element s { o, t, c? }
 
-o = element o { mixed { ref*, pg? } }
 
-t = element t { text }
-
-c = element c { text }
-
-# reference to another text
-ref = element ref { text }
-
-pg = element pg { no, empty }
-
-no = attribute no { text }

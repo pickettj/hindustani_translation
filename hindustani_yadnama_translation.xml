@@ -2,587 +2,1531 @@
 <?xml-model href="hindustani_schema.rnc" type="application/relax-ng-compact-syntax"?>
 
 <book>
-    <p>
-        <s>
-            <o>Маълуми Шумо бод, ки камина Муҳаммадҷон писари Ҳоҷӣ Мулло Рустам дар санаи 1310 ҳиҷрӣ
-                мутобиқ ба с. 1892 мулодӣ дар деҳаи Чорбоғ - наздикии оромгоҳи Хӯҷа Муҳаммадҷон Валӣ
-                воқеъ дар музофоти Хӯқанд чашм ба олам кушода, тарбия ёфтааст.</o>
-            <t>May it be known that the humble Muhammad-jan, son of Hojji Mulla Rustam, was born and
-                raised in the village of Charbagh, near the shrine of Khoja Muhammad-jan Wali,
-                located near Khoqand.</t>
-        </s>
-    </p>
-    <p>
-        <s>
-            <o>Бино ба ҳикояи қиблагоҳам, он кас дар шаҳрҳои Хӯқанд ва Самарканд таҳсили улум
-                кардаанд.</o>
-            <t>Based on the stories told by my father, he studied in the cities of Khujand and
-                Samarqand</t>
-            <c>The author has in mind madrasa-level study, not primary schooling.</c>
-        </s>
-        <s>
-            <o>Ман аз ишон <ref>Фарзи айн</ref> у <ref>Фиқҳи кайдоӣ</ref> инчунин аз
-                    <ref>Мухтасар</ref> то Китоби никоҳ-ро омӯхтам.</o>
-            <t>My father taught me the Farzi-i Ayn, the Fiqh-i Kidani, and the Mukhtasar (up to the
-                book on marriage).</t>
-            <c>By Фиқҳи қайдоӣ the author /or transcriber must have in mind the Fiqh-i Kidani, a
-                14th-century work of jurisprudence. These works were part of the Central Asian
-                madrasa curriculum: see Pickett, Polymaths of Islam, pp.</c>
+  <p>
+    <s>
+      <o>Маълуми Шумо бод, ки камина Муҳаммадҷон писари Ҳоҷӣ Мулло Рустам дар санаи 1310 ҳиҷрӣ
+        мутобиқ ба с. 1892 мулодӣ дар деҳаи Чорбоғ - наздикии оромгоҳи Хӯҷа Муҳаммадҷон Валӣ воқеъ
+        дар музофоти Хӯқанд чашм ба олам кушода, тарбия ёфтааст.</o>
+      <t>May it be known that the humble Muhammad-jan, son of Hojji Mulla Rustam, was born in the
+        year 1310 Hijri (1892 CE) in the village of Charbagh, near the shrine of Khoja Muhammad-jan
+        Wali, located near Khoqand, which is where he [the author] was raised.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Бино ба ҳикояи қиблагоҳам, он кас дар шаҳрҳои Хӯқанд ва Самарканд таҳсили улум
+        кардаанд.</o>
+      <t>Based on the stories told by my father, he studied in the cities of Khujand and
+        Samarqand</t>
+      <c type="hist">The author has in mind madrasa-level study, not primary schooling.</c>
+    </s>
+    <s>
+      <o>Ман аз ишон <ref>Фарзи айн</ref> у <ref>Фиқҳи кайдоӣ</ref> инчунин аз <ref>Мухтасар</ref>
+        то Китоби никоҳ-ро омӯхтам.</o>
+      <t>My father taught me the Farzi-i Ayn, the Fiqh-i Kidani, and the Mukhtasar (up to the book
+        on marriage).</t>
+      <c type="hist">By Фиқҳи қайдоӣ the author /or transcriber must have in mind the Fiqh-i Kidani,
+        a 14th-century work of jurisprudence. These works were part of the Central Asian madrasa
+        curriculum: see Pickett, Polymaths of Islam, pp.</c>
 
-        </s>
-        <s>
-            <o>Барои қорӣ шуданам шавқу ҳаваси зиёде доштанд.</o>
-            <t>My father greatly desired that I become a Qur'an reciter.</t>
-        </s>
-        <s>
-            <o>Дар ин хусус гуфта буданд: Ҳангоми таҳсилам дар Хӯканд дар моҳи Рамазон дар мадраса
-                хатим сурат гирифт.</o>
-            <t>In this regard (my father) once told me that while he was studying in Khoqand in the
-                month of Ramadan he had begun to recite the entire Qur'an in the madrasa.</t>
-        </s>
-        <s>
-            <o>Як қорӣ ба қироъати хатм машғул шуд, ки хеле хушовоз ва номаш Муҳаммадҷон-қорӣ
-                будааст.</o>
-            <t>Another student was also engaged in reciting the entire Qur'an who had a lovely
-                voice, and his name was Muhammad-jan Qari.</t>
-        </s>
-        <s>
-            <o>Ман ба Худо аҳд кардам, ки агар зан гирам ва Худо ба ман писар диҳад, номашро
-                Муҳаммадҷон монда, қорӣ хоҳам кард.</o>
-            <t>My father vowed to God that if he takes a wife and is granted a son, he would name
-                him Muhammad-jan and make him a Qur'an reciter.</t>
-        </s>
-        <s>
-            <o>Худои таъоло мувофиқи талабам ба ман чунин бахтро насиб гардонд, ки як марди
-                соҳибкирому бузургвор маро аз мадраса <pg no="116"/> бурда, духтарашро никоҳ карда
-                дод.</o>
-            <t>God Almighty granted my father's request with such fortune that a great man took me from the
-                madrasa and gave me his daughter's hand in marriage.</t>
-        </s>
-        <s>
-            <o>Бо иродаи Худованд ту ба дунё омадӣ.</o>
-            <t>And, according to my father, this is how I (Hindustani) came into the world.</t>
-        </s>
+    </s>
+    <s>
+      <o>Барои қорӣ шуданам шавқу ҳаваси зиёде доштанд.</o>
+      <t>My father greatly desired that I become a Qur'an reciter.</t>
+      <c type="hist">This term (qārī) did necessarily imply that a person had memorized the Qur'an
+        (i.e., a ḥāfiż), but rather meant that they had studied the principles of tajwīd (proper
+        intonation and pronunciation), for instance.</c>
+    </s>
+    <s>
+      <o>Дар ин хусус гуфта буданд: Ҳангоми таҳсилам дар Хӯканд дар моҳи Рамазон дар мадраса хатим
+        сурат гирифт.</o>
+      <!--check if khatim has the extra i in the original-->
+      <t>I once heard the following story: while he [the author's father] was studying in Khoqand in
+        the month of Ramadan he had begun to recite the entire Qur'an in the madrasa.</t>
+    </s>
+    <s>
+      <o>Як қорӣ ба қироъати хатм машғул шуд, ки хеле хушовоз ва номаш Муҳаммадҷон-қорӣ будааст.</o>
+      <t>Another student was [also] engaged in reciting the entire Qur'an who had a lovely voice,
+        and his name was Muhammad-jan Qari.</t>
+    </s>
+    <s>
+      <o>Ман ба Худо аҳд кардам, ки агар зан гирам ва Худо ба ман писар диҳад, номашро Муҳаммадҷон
+        монда, қорӣ хоҳам кард.</o>
+      <t>My father vowed to God that if he takes a wife and is granted a son, he would name him
+        Muhammad-jan and make him a Qur'an reciter.</t>
+    </s>
+    <!-- placeholder for review -->
+    <s>
+      <o>Худои таъоло мувофиқи талабам ба ман чунин бахтро насиб гардонд, ки як марди соҳибкирому
+        бузургвор маро аз мадраса <pg no="116"/> бурда, духтарашро никоҳ карда дод.</o>
+      <t>God Almighty granted my father's request with such fortune that a great man took me from
+        the madrasa and gave me his daughter's hand in marriage.</t>
+    </s>
+    <s>
+      <o>Бо иродаи Худованд ту ба дунё омадӣ.</o>
+      <t>And, according to my father, this is how I (Hindustani) came into the world.</t>
+    </s>
 
-    </p>
-    <p>
-        <s>
-          <o>Хулласи калом, маро дар ҳаштсолагиам ба равоншод Муҳаммадалӣ-корӣ вобаста карданд, ки он шахс аз деҳаи Ҷалабир буданд.</o>
-          <t>In short, at the age of eight I was entrusted (for edcutational training) over to Muhammad Ali Qari (now deceased), who was from the village of Jalabir.</t>
-        </s>
-        <s>
-          <o>Ин деҳа аз ҷои мо дар як километр масофа воқеъ буд.</o>
-          <t>>This village (i.e. Jalabir) was located one kilometer from our home.</t>
-        </s>
-        <s>
-          <o>Дар як моҳ <ref>Ҳаятяк</ref>-ро ба итмом расондам.</o>
-          <t>>I completed Haftyak in one month.</t>
-        </s>
-        <s>
-          <o>Қорӣ-домулло аз олам гузаштанд.</o>
-          <t>>Then Muhammad Ali Qori passed away.</t>
-        </s>
-        <s>
-          <o>Падарам маро ба Тошболта-қорӣ супурданд.</o>
-          <t>>My father then sent me to Tashbalta-qari (for training).</t>
-        </s>
-        <s>
-          <o>Дар назди ин Қорӣ-домулло чор сол машғули таҳсил будам, вале ҳифзи <ref>Қуръон</ref> бароям мушкил гардид.</o>
-          <t>I studied under this instructor for four years, but memorizing the Quran proved difficult.</t>
-        </s>
-        <s>
-          <o>Ба қиблагоҳам гуфтам: Маро ба шаҳр баред.</o>
-          <t>To my father I said: take me to the city</t>
-        </s>
-        <s>
-          <o>Дар ин ҷо одам шуданам ба гумон аст.</o>
-          <t>Here I fear that I would never become a (learned) man.</t>
-        </s>
-    </p>
-    <p>
-      <s>
-        <o>Ин суханам ба қиблагоҳам ҳам писанд афтод.</o>
-        <t>My words also pleased my father.</t>
-      </s>
-      <s>
-        <o>То шаҳрми Хӯқанд ҳашт километр буд.</o>
-        <t>(Our village) was located eight kilometers from Khoqand.</t>
-      </s>
-      <s>
-        <o>Дар он замон кӯчаҳо вайрон, одамон бо аспу хар ва пиёда мегаштанд.</o>
-        <t>At that time the roads were ruined and people traveled either by foot or by horse.</t>
-      </s>
-      <s>
-        <o>Падарам аспе доштанд, ки аз хар каме калон маро ба пушти аспашон савор карданд.</o>
-        <t>My father had a horse, which was a bit larger than a donkey, and put me on it's back and sent me off.</t>
-      </s>
-      <s>
-        <o>Баъди ду километр гаштан асп аз лойи кӯча нагузашт.</o>
-        <t>After two kilometers mud prevented the horse from traversing the road.</t>
-      </s>
-      <s>
-        <o>Ҳарчанд қиблагоҳ занҷир заданд ҳам, нашуд.</o>
-        <t>Even though my father struck (the horse) with a chain, nothing came of it.</t>
-      </s>
-      <s>
-        <o>Аз асп фаромада, кашидем ҳам нарафт.</o>
-        <t>(My father) got off the horse and pulled, but the horse did not proceed.</t>
-      </s>
-      <s>
-        <o>Ҳайрон мондем.</o>
-        <t>We were surprised.</t>
-      </s>
-      <s>
-        <o>Ногоҳ аз қафо доду фарёди занона ба гӯш расид.</o>
-        <t>Suddenly from behind us we heard a woman's shouting.</t>
-      </s>
-      <s>
-        <o>Нигарем ба сӯи мо зане давиди меояд.</o>
-        <t>Looking to our side, (we saw that) a women was coming toward us.</t>
-      </s>
-      <s>
-        <o>Баъди наздик омадан маълум шуд, ки модарам будааст.</o>
-        <t>As she approached it became clear that she was my mother.</t>
-      </s>
-      <s>
-        <o>Қуръонро фаромӯш карда будаам, аз қафо модарам гирифта давидаанд.</o>
-        <t>I had forgotton my Quran, so my mother had taken it and ran after us.</t>
-      </s>
-      <s>
-        <o>Баъди расидан беҳолу бемадор ба замин афтоданд.</o>
-        <t>When she caught up with us my mother collapsed to the ground, completely out of sorts.</t>
-        <c>bē-madār is a play on words; although it is etymologically Arabic and therefore unrelated to mādar ('mother'), they sound similar. The wording here is similar to verses of Persian poetry, such as this couplet by Nasir Khusraw: ای مادر فرزندخوار ای بی قرار ای بی مدار. ناصرخسرو</c>
-      </s>
-      <s>
-        <o>Баъди Қуръонро гирифтем, аспро кашидем, ки ба роҳ даромад.</o>
-        <t>After that we took the Quran and pulled the horse on to the road.</t>
-      </s>
-      <s>
-        <o>Қиблаҳгоҳ гуфтанд: Агар асп намеистод модарат то шаҳр медавид.</o>
-        <t>My father said: If the horse had not stopped, your mother would have run all the way to the city.</t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Хуллас, қиблагоҳ маро ба Зикриё қорӣ супурданд.</o>
-        <t>Ultimately, my father entrusted me to Zikriya-qari</t>
-      </s>
-      <s>
-        <o>Дар ин қорихона дар ду сол 14 Қуръонро ҳифз кардам.</o>
-        <t>In this school I memorized 14 (parts of) the Quran in two years.</t>
-        <c>The Quran is traditionally divided into 30 sections (juzʾ in Arabic, pāra in Persian).</c>
-      </s>
-      <s>
-        <o>Мувофиқи одат қиблагоҳамон ҳамаи уламоро ҷамъ карда, тӯи хатм гузарониданд.</o>
-        <t>In accordance with custom, my father assembled all of the Ulama and held a celebration.</t>
-        <c>The term to'y is used in modern Uzbek to refer to wedding celebrations.
-      </s>
-      <s>
-        <o>Аз ҳамашон барои идомаи таҳсил фотеҳа гирифтам.</o>
-        <t>I received a Fatiha from each of them to bless the continuation of my study.</t>
-      </s>
-      <s>
-        <o>Сонӣ ҳузури Мулло Эшонқул ба хондани дарсҳои ибтидоӣ шурӯъ кардам.</o>
-        <t>Then I began my beginning-level formal studies in the presence of Mulla Eshanqul.</t>
-      </s>
-      <s>
-        <o>Имлму сарфу наҳв барин китобҳои аввалро хонда, <ref>Шарҳи Ҷоми</ref>-ро сар кардам.</o>
-        <t>I began studying grammar and syntax, starting with Sharh-i Jami (check translation, check reference)</t>
-      </s>
-      <s>
-        <o>Аз ҷавониам ба илмуомӯзӣ иштиёқманд будам.</o>
-        <t>My youth made me eager to learn.</t>
-      </s>
-      <s>
-        <o>Як моҳ пеш аз Рамазон барои <pg no="118"/> такрори Қуръон ба Шоҳимардон мерафтам, ки он вақтҳо одамон бо ароба ба зиёрат раҳсипор мегардиданд.</o>
-        <t>One month before Ramadan I went to Shahimardan for the purposes of practicing Quranic recitation, joining the people who were setting out in horse carts to visit him.</t>
-      </s>
-      <s>
-        <o>Ман, ки пули кироя надоштам, ноилоҷ пиёда мерафтам.</o>
-        <t>Since I did not have any money (to hire a cart), I went on foot.</t>
-      </s>
-      <s>
-        <o>Як маротиба кафшамро бароварда ба халта андохта ва пои урён ба роҳ даромадам, ки кафшам дарид, имкони аз бозор навшро гирифтам набуд, пул надоштам, камбағалӣ:</o>
-        <t>One time I took off my shoes, put them in a bag, and hit the road barefoot, since my shoes were torn up and I didn noot have the chance to go to the bazaar, nor the money (to purchase new ones).</t>
-      </s>
-      <!-- Create element or attribute for poetry. -->
-    <p>
-      <s>
-        <o>Хулоса, ман ба қориён каме дар боари аҳволи он замон баён кардам, ки аз мӯйсафедон мақоле монда: Муште аз хирвор.</o>
-        <t>And so I have recounted a bit about </t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Ҳоло ба байёни аҳволи худ мепардозам.</o>
-        <t>Now I will recount more about my own circumstances.</t>
-      </s>
-      <s>
-        <o>Ба Шоҳимардон расидам.</o>
-        <t>I reached Shahimardan.</t>
-      </s>
-      <s>
-        <o>Дар он ҷо як моҳ ба такрор машғул шудам.</o>
-        <t>I spent one month there engaged in studies.</t>
-      </s>
-      <s>
-        <o>Дар даст маблағе надоштам, фақат таваккал ба Худа мекардаму халос.</o>
-        <t>I had not even a coin to live on and was completely dependent on the grace of God.</t>
-      </s>
-      <s>
-        <o>Зиёраткунандагон бисёр меомаданд.</o>
-        <t>Many pilgrims were arriving during my stay.</t>
-      </s>
-      <s>
-        <o>Баъзеашон ба наздам омада, "қорӣ катм кунед" гуфта ягон чиз медоданд.</o>
-        <t>Some of them would come up to me saying "finish your Quran recitation studies" and offer me something.</t>
-      </s>
-      <s>
-        <o>Баъзашон хӯрок медоданд:</o>
-        <!-- poetry -->
-        <t>Some of them offered food:</t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Хӯрокҳои лазизе, ки дар хонаам муҳайё набуд, Худо мерасонд.</o>
-        <t>The delectable food, which was not prepared in my home, was delivered by God.</t>
-      </s>
-      <s>
-        <o>Дар майдони Шоҳимардон як ҳавз буд.</o>
-        <t>There was a pool in Shahimardan's courtyard.</t>
-      </s>
-      <s>
-        <o></o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ҳар рӯз дар назди ҳавз духтарон молҳояшонро ба зиёраткунандагон фӯрухта, савори асп ба хонаҳояшон бармегаштанд.</o>
-        <t>Every day by the pool girls would sell their wares to pilgrims, then return home by horse.</t>
-      </s>
-      <s>
-        <o>Як рӯз духтаре дар назди ҳавз гиря карда нишаста буд, ки ба наздаш рафта пурсидам: <q>Барои чӣ гиря мекунӣ?</q></o>
-        <t>One day a girl near the pool was crying. I approached her and asked: Why are you crying?</t>
-      </s>
-      <s>
-        <o>Он духтар гуфт: <q>Пули нонҳои аз саҳар то бегоҳ фурӯтаамро ба ҳавз афтондам.</q></o>
-        <!-- idiomatic usage of aftondam? -->
-        <t>The girl said: I dropped the money I earned from selling bread from morning until night into the pool.</t>
-      </s>
-      <s>
-        <o><q>Маро зада мекушад модарам ӯгай, модари худам вафот кардагӣ.</q></o>
-        <t>My stepmother will beat me to death; my real mother passed away.</t>
-      </s>
-      <s>
-        <o>Ба бечораи ятим раҳмам омада, пурсидам: <q>Чӣ хел ва дар куҷо афтондӣ?</q></o>
-        <t>Feeling compassion for this orphan, I asked: How and where did you drop it?</t>
-      </s>
-      <s>
-        <o><pg no="119"/>Духтар гуфт: <q>Ҳамаи пулҳоям дар ҳамён буданд, андармони бозӣ афтондам.</q></o>
-        <!-- check андармони -->
-        <t>The girl said: All of my money was in my purse; I dropped it wall playing.</t>
-      </s>
-      <s>
-        <o><q>Дар куҷо афтодӣ, ба ман нишон деҳ,</q> гуфтам.</o>
-        <t>Show me where you fell, I said.</t>
-      </s>
-      <s>
-        <o>Духтар ҷои афтондаашро нишон дод.</o>
-        <t>The girl showed me where she fell.</t>
-      </s>
-      <s>
-        <o></o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ман куртаҳоямро кашида худамро ба ҳавз партофтам.</o>
-        <t>I pulled off my overshirt and threw myself into the pool.</t>
-      </s>
-      <s>
-        <o>Баъди ҷустуҷӯ ҳамёнро ёфта додам.</o>
-        <t>After searching I found the purse and gave it back to the girl.</t>
-      </s>
-      <s>
-        <o>Хурсандии ятимдухтар ҳадду канор надошт.</o>
-        <t>The orphan girl's delight knew no bounds.</t>
-      </s>
-      <s>
-        <o>Гуфтам: <q>Ту барои ман <q>Худо ба шумо илм диҳад</q> гуфта дуъо кун.</q></o>
-        <t>I said: pray that God gives me knowledge.</t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Духтар мувофиқи нишондоди ман ба қибла нигоҳ карда дуъо кард, ки ни бароям ҳодисаи аҷоиб шуд.</o>
-        <t>Agreeing with my suggestion, the girl turned to the Qibla and prayed that miraculous events would befall me.</t>
-      </s>
-      <s>
-        <o>Пештар фаҳмам нарасида азоб мекашидам.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ҳатто баъзан гиря мекардам.</o>
-        <t>At times I would even burst into tears.</t>
-      </s>
-      <s>
-        <o>Баъди ин дуъо фаҳмишам хуб шуда, ҳатто ба ҳамроҳонам нақл мекардам, яъне дуъои ин ятим зоеъ нарафт.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Акнун дар сарам фикри аз Шоҳимардон ба Хӯқанд баргаштан пайдо шуд, ки онро Худо осон кард.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Чунин шуд, ки аз Хӯқанд як гурӯҳ бойҳо ба зиёрат омаданд, ки писари яке аз онҳо дар қорихона ҳамроҳи ман хонда буд.</o>
-        <t>It so happened that the son of a group of wealthy people who had come to Shahrimardan for pilgrimage was a classmate from the same Quranic school as me.</t>
-      </s>
-      <s>
-        <o></o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ӯ ҳамроҳи падараш омада, буд ва ҳангоми бозгашташон маро бо худ гирифтанд.</o>
-        <t>Having come with his father, he took me along with the group on their return journey.</t>
-      </s>
-      <s>
-        <o>Он вақтҳо дар Хӯқанд дарс мехондам.</o>
-        <t>At that time I was studying in Khoqand.</t>
-      </s>
-      <s>
-        <o>Дар Мадрасаи Минг Ойим ба ҷамоъае, ки дар назди Усмон Махдум <ref>Шарҳи Мулло</ref> мехонданд, пайвастам.</o>
-        <t>I studied Sharh-i Mulla in Usman Makhdum's study circle.</t>
-      </s>
-      <s>
-        <o>Он замон тахминан шонздаҳ сол доштам.</o>
-        <t>At that time I was approximately sixteen years old.</t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Баъди як сол ба қарори ба Бухоро рафтану ҳамеша аз паи таҳсил шудан омадам ва аз қиблагоҳам пурсидам.</o>
-        <t>After one year I decided to go to Bukhara, always in pursuit of learning, and I asked my father.</t>
-      </s>
-      <s>
-        <o>Рухсат надоданд.</o>
-        <t>He did not give me perimission.</t>
-      </s>
-      <s>
-        <o>Ҳатто коҳиш карданд, гуфтанд: <q>Дар Хӯқанд домуллои ба ту дарс медодагӣ нест?</q></o>
-        <!-- коҳиш in this context? -->
-        <t></t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Натавонистам гӯям, ки ба хондани ман халал мерасонед.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Азм кардам, ки агар иҷозат надиҳанд ҳам мерамав.</o>
-        <t>I resolved that I would go (to Bukhara), with or without permission.</t>
-      </s>
-      <s>
-        <o>Соатамро дар бозор ба даҳ сӯм фурӯхта, роҳкирои сафар кардам.</o>
-        <t>I sold my watch in the bazaar for ten sum and used the proceeds to pay for passage (to Bukhara).</t>
-      </s>
-      <s>
-        <o>Ба поезд билет гирифтам.</o>
-        <t>I bought a train ticket.</t>
-      </s>
-      <s>
-        <o>Дар поезд ба як мӯйсафеди шаҳрихонӣ ҳамроҳ шудам, ки аз ман пурсиданд: <q>Куҷо меравӣ?</q></o>
-        <!-- double check шаҳрихонӣ -->
-        <t>On the train I joined an elderly fellow from the city, who asked me: Where are you going?</t>
-      </s>
-      <s>
-        <o>Гуфтам, ки ба Бухоро.</o>
-        <t>I replied that I was going to Bukhara.</t>
-      </s>
-      <s>
-        <o>Боз пурсид, ки ба кадом мадраса.</o>
-        <t>He also asked which madrasa I was going to.</t>
-      </s>
-      <s>
-        <o>Гуфтам, ки намедонам.</o>
-        <t>I said that I didn't know.</t>
-      </s>
-      <s>
-        <o>Боз пурсид, ки дар Бухоро шиносҳо дорӣ.</o>
-        <t>Then he asked if I had any contacts in Bukhara.</t>
-      </s>
-      <s>
-        <o>Ҷавоби неро шунида, мӯйсафед ҳайрон шуд.</o>
-        <t>On hearing my negative response, the elder was surprised.</t>
-      </s>
-      <s>
-        <o><q>Бухоро-шаҳри азим.</q></o>
-        <t>Bukhara is a vast city.</t>
-      </s>
-      <s>
-        <o><q>Шумо ҳеч касро надонед, дар кӯча мемонед.</q></o>
-        <t>If you don't know anyone, you are going to be out on the street.</t>
-      </s>
-      <s>
-        <o><q>Ба Шумо ягон кас маслиҳати наравро надод?</q></o>
-        <!-- check наравро in this context -->
-        <t></t>
-      </s>
-      <s>
-        <o><q>Ҳеч қисса <pg no="120"/> не, ба ман ҳамроҳӣ кунед, ба ҷои мӯътабаре мебарам, ки дар ҳамон ҷо истиқомат хоҳед кард.</q></o>
-        <t></t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Қисса кӯтоҳ, ба Бухоро расидем.</o>
-        <t>To make a long story short, we arrived in Bukhara.</t>
-      </s>
-      <s>
-        <o>Хонақоҳе ба номи имоми Сайахсин машҳур будааст.</o>
-        <t>There is a sufi lodge known by the name of Sayakhs.</t>
-      </s>
-      <s>
-        <o>Дар Бухоро эшони шаҳирхонӣ будааст, бо номи Худойбердӣ халифа.</o>
-        <!-- decide what to do with шаҳирхонӣ-->
-        <t>In Bukhara there was an ishan by the name of Khudayberdi Khalifa</t>
-      </s>
-      <s>
-        <o>Ин мӯйсафед бародари ҳазрати Эшон будаанд.</o>
-        <t>This white-beard was the brother of Hazrat Ishan.</t>
-      </s>
-      <s>
-        <o>Он кас маро ба хонақоҳ бурда, куҷое ражтанд.</o>
-        <t>That person (on the train) took me to this sufi lodge, then left.</t>
-      </s>
-      <s>
-        <o>Ман намози аср, шому хуфтанро дар ин хона хондам.</o>
-        <!-- I wondr if khana here is supposed to be khanaqah -->
-        <t>I performed my afternoon, evening and bedtime prayers there.</t>
-      </s>
-      <s>
-        <o>Баъди намози хуфтан ҳазрати Эшон ба ҳалқа даромаданд, ки сураи Таборак-ро қироът кардам.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Самараи хубе дод, ки баъди намоз як одам пурсид: <q>Қории қироъаткарда кист?</q></o>
-        <t>My recitation made such an impression that after prayer someone asked: Who was reciting?</t>
-      </s>
-      <s>
-        <o><q>Ман,</q> ҷавоб додам</o>
-        <t>I replied that it was me.</t>
-      </s>
-      <s>
-        <o>Шуморо ҳазрати Эшон даъват мекунанд гуфта, маро ба чиллахона даровард.</o>
-        <t>Saying that Hazrat Eshan was inviting me, he took me to the Chillakhana.</t>
-        <!-- translate chillakhana? if so, how? -->
-      </s>
-      <s>
-        <o>Ҳазратро зиёрат кардам.</o>
-        <t>I visited the Hazrat.</t>
-      </s>
-      <s>
-        <o>Ҳазрати Эшон аз аҳворам пурсон шуданд: <q>Бароӣ чӣ ба Бухоро омадед?</q></o>
-        <t>Hazrat Eshan asked about my status: WHy have you come to Bukhara?</t>
-      </s>
-      <s>
-        <o><q>Барои таҳсил,</q> гуфтам.</o>
-        <t>For study, I replied.</t>
-      </s>
-      <s>
-        <o><q>Қории мураттаб хастед?</q> суол карданд.</o>
-        <t></t>
-        <!-- decide how to translate murattab in this context -->
-      </s>
-      <s>
-        <o></o>
-        <t></t>
-      </s>
-      <s>
-        <o><q>Бале,</q> ҷавоб гуфтам.</o>
-        <t>Yes, I replied.</t>
-      </s>
-      <s>
-        <o><q>Сураи Музаммид-ро қироат кунед,</q> гуфтанд.</o>
-        <t>Read the Muzammid Surah, he said.</t>
-      </s>
-      <s>
-        <o></o>
-        <t></t>
-      </s>
-      <s>
-        <o>Қироъат кардам.</o>
-        <t>And so I recited.</t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Ҳазрати Эшон хеле таҳсин карданд.</o>
-        <t>Hazrat Eshan showered me with praise.</t>
-      </s>
-      <s>
-        <o>Писари хурдашонро даъват карда, тавсия доданд, ки ин рафиқатро ба ҳуҷра бар.</o>
-        <t></t>
-        <!-- decide how exactly how to translate end of this sentence. -->
-      </s>
-      <s>
-        <o>Якҷоя истиқомат кунед, ба дарс ҳам бар, ки <title>Шарҳи Ҷомӣ</title> мехондааст.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Боз маро таъкид карданд, ки ҳар саҳар сӯфӣ шуморо аз хоб бедор мекунам, баъди таҳорат бе назди ман омада, сураи Музаммилро тиловат мекунед.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ҳамин тавр, ҳар саҳар барвақт ҳангоми намози бомдот маро суфӣ бо худ мебурд.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Рӯзона бо Эшонҷон ба дарс мерафтам, ки ҳамин тарз се моҳ давом кард.</o>
-        <t>I attended lessons with the Eshon daily for three months.</t>
-      </s>
-      <s>
-        <o>Баъдан бароям истиқомат дар ин ҷо мушкил гардид.</o>
-        <t>After that living in that place became difficult for me.</t>
-      </s>
-      <s>
-        <o>Зеро ба ҳуҷраи Эшонҷон меҳмонон зиёд меомаданд, ки ба дарсхонимам монеъ мушуданд.</o>
-        <t>This was because the Eshon was hosting many differet guests, which got in the way of my studying.</t>
-      </s>
-      <s>
-        <o>Баъзан аз ҳазрати Эшонҷон рухсат гирифта, бу дахмаашон рафтам ва дар ҳамон ҷо истиқомат кардам.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ҳарчанд дар хуҷраи Эшонҷон маишатам хуб буд, барои зиндагӣ ҳама чиз мерасид, вале дарсхониам хуб набуд.</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Ба гӯрхона кӯчидам ва дар бисотам чизи кофӣ барои таҳсил набуд</o>
-        <t></t>
-      </s>
-      <s>
-        <o>Азоб мекашидам, вале таваккал ба ходо кардам,<pg no="121"/> ки ризқро Аллоҳ Таъоло медиҳад.</o>
-        <t></t>
-      </s>
-    </p>
-    <p>
-      <s>
-        <o>Як рӯз баъди дарс аз назди дӯкони нонвой мегузаштам, ки нонвой ҷеғ зада, ду дона нон дод.</o>
-        <t>One day after the lesson I passed by a bakery; the baker shouted to me and gave me two loafs of bread.</t>
-      </s>
-      <s>
-        <o>Ҳамон рӯз гурусна будам.</o>
-        <t>That very day I was hungry.</t>
-      </s>
-      <s>
-        <o>Ба дили ин одам бо фазлу карами парвардигор ҳар рӯз бароям ду нон доданро андохт, ки нонвой мегуфт: <q>Ҳар рӯз Шумо ҳангоми баргафтанатон ду нон гиред.</q></o>
-        <t></t>
-      </s>
-    </p>
-      <s>
-        <o></o>
-        <t></t>
-      </s>
-    <p>
-    </p>
+  </p>
+  <p>
+    <s>
+      <o>Хулласи калом, маро дар ҳаштсолагиам ба равоншод Муҳаммадалӣ-корӣ вобаста карданд, ки он
+        шахс аз деҳаи Ҷалабир буданд.</o>
+      <t>In short, at the age of eight I was entrusted (for edcutational training) over to Muhammad
+        Ali Qari (now deceased), who was from the village of Jalabir.</t>
+    </s>
+    <s>
+      <o>Ин деҳа аз ҷои мо дар як километр масофа воқеъ буд.</o>
+      <t>>This village (i.e. Jalabir) was located one kilometer from our home.</t>
+    </s>
+    <s>
+      <o>Дар як моҳ <ref>Ҳаятяк</ref>-ро ба итмом расондам.</o>
+      <t>>I completed Haftyak in one month.</t>
+    </s>
+    <s>
+      <o>Қорӣ-домулло аз олам гузаштанд.</o>
+      <t>>Then Muhammad Ali Qori passed away.</t>
+    </s>
+    <s>
+      <o>Падарам маро ба Тошболта-қорӣ супурданд.</o>
+      <t>>My father then sent me to Tashbalta-qari (for training).</t>
+    </s>
+    <s>
+      <o>Дар назди ин Қорӣ-домулло чор сол машғули таҳсил будам, вале ҳифзи <ref>Қуръон</ref> бароям
+        мушкил гардид.</o>
+      <t>I studied under this instructor for four years, but memorizing the Quran proved
+        difficult.</t>
+    </s>
+    <s>
+      <o>Ба қиблагоҳам гуфтам: Маро ба шаҳр баред.</o>
+      <t>To my father I said: take me to the city</t>
+    </s>
+    <s>
+      <o>Дар ин ҷо одам шуданам ба гумон аст.</o>
+      <t>Here I fear that I would never become a (learned) man.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ин суханам ба қиблагоҳам ҳам писанд афтод.</o>
+      <t>My words also pleased my father.</t>
+    </s>
+    <s>
+      <o>То шаҳрми Хӯқанд ҳашт километр буд.</o>
+      <t>(Our village) was located eight kilometers from Khoqand.</t>
+    </s>
+    <s>
+      <o>Дар он замон кӯчаҳо вайрон, одамон бо аспу хар ва пиёда мегаштанд.</o>
+      <t>At that time the roads were ruined and people traveled either by foot or by horse.</t>
+    </s>
+    <s>
+      <o>Падарам аспе доштанд, ки аз хар каме калон маро ба пушти аспашон савор карданд.</o>
+      <t>My father had a horse, which was a bit larger than a donkey, and put me on it's back and
+        sent me off.</t>
+    </s>
+    <s>
+      <o>Баъди ду километр гаштан асп аз лойи кӯча нагузашт.</o>
+      <t>After two kilometers mud prevented the horse from traversing the road.</t>
+    </s>
+    <s>
+      <o>Ҳарчанд қиблагоҳ занҷир заданд ҳам, нашуд.</o>
+      <t>Even though my father struck (the horse) with a chain, nothing came of it.</t>
+    </s>
+    <s>
+      <o>Аз асп фаромада, кашидем ҳам нарафт.</o>
+      <t>(My father) got off the horse and pulled, but the horse did not proceed.</t>
+    </s>
+    <s>
+      <o>Ҳайрон мондем.</o>
+      <t>We were surprised.</t>
+    </s>
+    <s>
+      <o>Ногоҳ аз қафо доду фарёди занона ба гӯш расид.</o>
+      <t>Suddenly from behind us we heard a woman's shouting.</t>
+    </s>
+    <s>
+      <o>Нигарем ба сӯи мо зане давиди меояд.</o>
+      <t>Looking to our side, (we saw that) a women was coming toward us.</t>
+    </s>
+    <s>
+      <o>Баъди наздик омадан маълум шуд, ки модарам будааст.</o>
+      <t>As she approached it became clear that she was my mother.</t>
+    </s>
+    <s>
+      <o>Қуръонро фаромӯш карда будаам, аз қафо модарам гирифта давидаанд.</o>
+      <t>I had forgotton my Quran, so my mother had taken it and ran after us.</t>
+    </s>
+    <s>
+      <o>Баъди расидан беҳолу бемадор ба замин афтоданд.</o>
+      <t>When she caught up with us my mother collapsed to the ground, completely out of sorts.</t>
+      <c type="ling">bē-madār is a play on words; although it is etymologically Arabic and therefore
+        unrelated to mādar ('mother'), they sound similar. The wording here is similar to verses of
+        Persian poetry, such as this couplet by Nasir Khusraw: ای مادر فرزندخوار ای بی قرار ای بی
+        مدار. ناصرخسرو</c>
+    </s>
+    <s>
+      <o>Баъди Қуръонро гирифтем, аспро кашидем, ки ба роҳ даромад.</o>
+      <t>After that we took the Quran and pulled the horse on to the road.</t>
+    </s>
+    <s>
+      <o>Қиблаҳгоҳ гуфтанд: Агар асп намеистод модарат то шаҳр медавид.</o>
+      <t>My father said: If the horse had not stopped, your mother would have run all the way to the
+        city.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Хуллас, қиблагоҳ маро ба Зикриё қорӣ супурданд.</o>
+      <t>Ultimately, my father entrusted me to Zikriya-qari</t>
+    </s>
+    <s>
+      <o>Дар ин қорихона дар ду сол 14 Қуръонро ҳифз кардам.</o>
+      <t>In this school I memorized 14 (parts of) the Quran in two years.</t>
+      <c type="hist">The Quran is traditionally divided into 30 sections (juzʾ in Arabic, pāra in
+        Persian).</c>
+      <c type="hist">The word used for "school" (qārī-khāna) in this sentence refers to a specific
+        kind of instruction: proper recitation of the Quran (tajwīd). This did not necessarily
+        entail memorization (ḥifż), but - as this text makes clear - the two often went
+        hand-in-hand.</c>
+    </s>
+    <s>
+      <o>Мувофиқи одат қиблагоҳамон ҳамаи уламоро ҷамъ карда, тӯи хатм гузарониданд.</o>
+      <t>In accordance with custom, my father assembled all of the Ulama and held a celebration.</t>
+      <c type="ling">The term to'y is used in modern Uzbek to refer to wedding celebrations.</c>
+    </s>
+    <s>
+      <o>Аз ҳамашон барои идомаи таҳсил фотеҳа гирифтам.</o>
+      <t>I received a Fatiha from each of them to bless the continuation of my study.</t>
+    </s>
+    <s>
+      <o>Сонӣ ҳузури Мулло Эшонқул ба хондани дарсҳои ибтидоӣ шурӯъ кардам.</o>
+      <t>Then I began my beginning-level formal studies in the presence of Mulla Eshanqul.</t>
+    </s>
+    <s>
+      <o>Имлму сарфу наҳв барин китобҳои аввалро хонда, <ref>Шарҳи Ҷоми</ref>-ро сар кардам.</o>
+      <t>I began studying grammar and syntax, starting with Sharh-i Jami (check translation, check
+        reference)</t>
+    </s>
+    <s>
+      <o>Аз ҷавониам ба илмуомӯзӣ иштиёқманд будам.</o>
+      <t>My youth made me eager to learn.</t>
+    </s>
+    <s>
+      <o>Як моҳ пеш аз Рамазон барои <pg no="118"/> такрори Қуръон ба Шоҳимардон мерафтам, ки он
+        вақтҳо одамон бо ароба ба зиёрат раҳсипор мегардиданд.</o>
+      <t>One month before Ramadan I went to Shahimardan for the purposes of practicing Quranic
+        recitation, joining the people who were setting out in horse carts to visit him.</t>
+    </s>
+    <s>
+      <o>Ман, ки пули кироя надоштам, ноилоҷ пиёда мерафтам.</o>
+      <t>Since I did not have any money (to hire a cart), I went on foot.</t>
+    </s>
+    <s>
+      <o>Як маротиба кафшамро бароварда ба халта андохта ва пои урён ба роҳ даромадам, ки кафшам
+        дарид, имкони аз бозор навшро гирифтам набуд, пул надоштам, камбағалӣ:</o>
+      <t>One time I took off my shoes, put them in a bag, and hit the road barefoot, since my shoes
+        were torn up and I didn noot have the chance to go to the bazaar, nor the money (to purchase
+        new ones).</t>
+    </s>
+  </p>
+  <!-- Create element or attribute for poetry. -->
+  <p>
+    <s>
+      <o>Хулоса, ман ба қориён каме дар боари аҳволи он замон баён кардам, ки аз мӯйсафедон мақоле
+        монда: Муште аз хирвор.</o>
+      <t>And so I have recounted a bit about </t>
+      <c type="hist">A qārī was a student studying proper recitation of the Quran (tajwīd), and
+        usually simultaneously working towards memorization of portions fo the Quran (with the goal
+        of eventually memorizing the entire text and becoming a ḥāfiż in addition to a qārī).</c>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ҳоло ба байёни аҳволи худ мепардозам.</o>
+      <t>Now I will recount more about my own circumstances.</t>
+    </s>
+    <s>
+      <o>Ба Шоҳимардон расидам.</o>
+      <t>I reached Shahimardan.</t>
+    </s>
+    <s>
+      <o>Дар он ҷо як моҳ ба такрор машғул шудам.</o>
+      <t>I spent one month there engaged in studies.</t>
+    </s>
+    <s>
+      <o>Дар даст маблағе надоштам, фақат таваккал ба Худа мекардаму халос.</o>
+      <t>I had not even a coin to live on and was completely dependent on the grace of God.</t>
+    </s>
+    <s>
+      <o>Зиёраткунандагон бисёр меомаданд.</o>
+      <t>Many pilgrims were arriving during my stay.</t>
+    </s>
+    <s>
+      <o>Баъзеашон ба наздам омада, "қорӣ катм кунед" гуфта ягон чиз медоданд.</o>
+      <t>Some of them would come up to me saying "finish your Quran recitation studies" and offer me
+        something.</t>
+    </s>
+    <s>
+      <o>Баъзашон хӯрок медоданд:</o>
+      <!-- poetry -->
+      <t>Some of them offered food:</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Хӯрокҳои лазизе, ки дар хонаам муҳайё набуд, Худо мерасонд.</o>
+      <t>The delectable food, which was not prepared in my home, was delivered by God.</t>
+    </s>
+    <s>
+      <o>Дар майдони Шоҳимардон як ҳавз буд.</o>
+      <t>There was a pool in Shahimardan's courtyard.</t>
+    </s>
+    <s>
+      <o/>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳар рӯз дар назди ҳавз духтарон молҳояшонро ба зиёраткунандагон фӯрухта, савори асп ба
+        хонаҳояшон бармегаштанд.</o>
+      <t>Every day by the pool girls would sell their wares to pilgrims, then return home by
+        horse.</t>
+    </s>
+    <s>
+      <o>Як рӯз духтаре дар назди ҳавз гиря карда нишаста буд, ки ба наздаш рафта пурсидам: <q>Барои
+          чӣ гиря мекунӣ?</q></o>
+      <t>One day a girl near the pool was crying. I approached her and asked: Why are you
+        crying?</t>
+    </s>
+    <s>
+      <o>Он духтар гуфт: <q>Пули нонҳои аз саҳар то бегоҳ фурӯтаамро ба ҳавз афтондам.</q></o>
+      <!-- idiomatic usage of aftondam? -->
+      <t>The girl said: I dropped the money I earned from selling bread from morning until night
+        into the pool.</t>
+    </s>
+    <s>
+      <o><q>Маро зада мекушад модарам ӯгай, модари худам вафот кардагӣ.</q></o>
+      <t>My stepmother will beat me to death; my real mother passed away.</t>
+    </s>
+    <s>
+      <o>Ба бечораи ятим раҳмам омада, пурсидам: <q>Чӣ хел ва дар куҷо афтондӣ?</q></o>
+      <t>Feeling compassion for this orphan, I asked: How and where did you drop it?</t>
+    </s>
+    <s>
+      <o><pg no="119"/>Духтар гуфт: <q>Ҳамаи пулҳоям дар ҳамён буданд, андармони бозӣ
+        афтондам.</q></o>
+      <!-- check андармони -->
+      <t>The girl said: All of my money was in my purse; I dropped it wall playing.</t>
+    </s>
+    <s>
+      <o><q>Дар куҷо афтодӣ, ба ман нишон деҳ,</q> гуфтам.</o>
+      <t>Show me where you fell, I said.</t>
+    </s>
+    <s>
+      <o>Духтар ҷои афтондаашро нишон дод.</o>
+      <t>The girl showed me where she fell.</t>
+    </s>
+    <s>
+      <o/>
+      <t/>
+    </s>
+    <s>
+      <o>Ман куртаҳоямро кашида худамро ба ҳавз партофтам.</o>
+      <t>I pulled off my overshirt and threw myself into the pool.</t>
+    </s>
+    <s>
+      <o>Баъди ҷустуҷӯ ҳамёнро ёфта додам.</o>
+      <t>After searching I found the purse and gave it back to the girl.</t>
+    </s>
+    <s>
+      <o>Хурсандии ятимдухтар ҳадду канор надошт.</o>
+      <t>The orphan girl's delight knew no bounds.</t>
+    </s>
+    <s>
+      <o>Гуфтам: <q>Ту барои ман Худо ба шумо илм диҳад</q>гуфта дуъо кун.</o>
+      <t>I said: pray that God gives me knowledge.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Духтар мувофиқи нишондоди ман ба қибла нигоҳ карда дуъо кард, ки ни бароям ҳодисаи аҷоиб
+        шуд.</o>
+      <t>Agreeing with my suggestion, the girl turned to the Qibla and prayed that miraculous events
+        would befall me.</t>
+    </s>
+    <s>
+      <o>Пештар фаҳмам нарасида азоб мекашидам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳатто баъзан гиря мекардам.</o>
+      <t>At times I would even burst into tears.</t>
+    </s>
+    <s>
+      <o>Баъди ин дуъо фаҳмишам хуб шуда, ҳатто ба ҳамроҳонам нақл мекардам, яъне дуъои ин ятим зоеъ
+        нарафт.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Акнун дар сарам фикри аз Шоҳимардон ба Хӯқанд баргаштан пайдо шуд, ки онро Худо осон
+        кард.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Чунин шуд, ки аз Хӯқанд як гурӯҳ бойҳо ба зиёрат омаданд, ки писари яке аз онҳо дар
+        қорихона ҳамроҳи ман хонда буд.</o>
+      <t>It so happened that the son of a group of wealthy people who had come to Shahrimardan for
+        pilgrimage was a classmate from the same Quranic school as me.</t>
+    </s>
+    <s>
+      <o/>
+      <t/>
+    </s>
+    <s>
+      <o>Ӯ ҳамроҳи падараш омада, буд ва ҳангоми бозгашташон маро бо худ гирифтанд.</o>
+      <t>Having come with his father, he took me along with the group on their return journey.</t>
+    </s>
+    <s>
+      <o>Он вақтҳо дар Хӯқанд дарс мехондам.</o>
+      <t>At that time I was studying in Khoqand.</t>
+    </s>
+    <s>
+      <o>Дар Мадрасаи Минг Ойим ба ҷамоъае, ки дар назди Усмон Махдум <ref>Шарҳи Мулло</ref>
+        мехонданд, пайвастам.</o>
+      <t>I studied Sharh-i Mulla in Usman Makhdum's study circle.</t>
+    </s>
+    <s>
+      <o>Он замон тахминан шонздаҳ сол доштам.</o>
+      <t>At that time I was approximately sixteen years old.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Баъди як сол ба қарори ба Бухоро рафтану ҳамеша аз паи таҳсил шудан омадам ва аз қиблагоҳам
+        пурсидам.</o>
+      <t>After one year I decided to go to Bukhara, always in pursuit of learning, and I asked my
+        father.</t>
+    </s>
+    <s>
+      <o>Рухсат надоданд.</o>
+      <t>He did not give me perimission.</t>
+    </s>
+    <s>
+      <o>Ҳатто коҳиш карданд, гуфтанд: <q>Дар Хӯқанд домуллои ба ту дарс медодагӣ нест?</q></o>
+      <!-- коҳиш in this context? -->
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Натавонистам гӯям, ки ба хондани ман халал мерасонед.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Азм кардам, ки агар иҷозат надиҳанд ҳам мерамав.</o>
+      <t>I resolved that I would go (to Bukhara), with or without permission.</t>
+    </s>
+    <s>
+      <o>Соатамро дар бозор ба даҳ сӯм фурӯхта, роҳкирои сафар кардам.</o>
+      <t>I sold my watch in the bazaar for ten sum and used the proceeds to pay for passage (to
+        Bukhara).</t>
+    </s>
+    <s>
+      <o>Ба поезд билет гирифтам.</o>
+      <t>I bought a train ticket.</t>
+    </s>
+    <s>
+      <o>Дар поезд ба як мӯйсафеди шаҳрихонӣ ҳамроҳ шудам, ки аз ман пурсиданд: <q>Куҷо
+        меравӣ?</q></o>
+      <!-- double check шаҳрихонӣ -->
+      <t>On the train I joined an elderly fellow from the city, who asked me: Where are you
+        going?</t>
+    </s>
+    <s>
+      <o>Гуфтам, ки ба Бухоро.</o>
+      <t>I replied that I was going to Bukhara.</t>
+    </s>
+    <s>
+      <o>Боз пурсид, ки ба кадом мадраса.</o>
+      <t>He also asked which madrasa I was going to.</t>
+    </s>
+    <s>
+      <o>Гуфтам, ки намедонам.</o>
+      <t>I said that I didn't know.</t>
+    </s>
+    <s>
+      <o>Боз пурсид, ки дар Бухоро шиносҳо дорӣ.</o>
+      <t>Then he asked if I had any contacts in Bukhara.</t>
+    </s>
+    <s>
+      <o>Ҷавоби неро шунида, мӯйсафед ҳайрон шуд.</o>
+      <t>On hearing my negative response, the elder was surprised.</t>
+    </s>
+    <s>
+      <o><q>Бухоро-шаҳри азим.</q></o>
+      <t>Bukhara is a vast city.</t>
+    </s>
+    <s>
+      <o><q>Шумо ҳеч касро надонед, дар кӯча мемонед.</q></o>
+      <t>If you don't know anyone, you are going to be out on the street.</t>
+    </s>
+    <s>
+      <o><q>Ба Шумо ягон кас маслиҳати наравро надод?</q></o>
+      <!-- check наравро in this context -->
+      <t/>
+    </s>
+    <s>
+      <o><q>Ҳеч қисса <pg no="120"/> не, ба ман ҳамроҳӣ кунед, ба ҷои мӯътабаре мебарам, ки дар
+          ҳамон ҷо истиқомат хоҳед кард.</q></o>
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Қисса кӯтоҳ, ба Бухоро расидем.</o>
+      <t>To make a long story short, we arrived in Bukhara.</t>
+    </s>
+    <s>
+      <o>Хонақоҳе ба номи имоми Сайахсин машҳур будааст.</o>
+      <t>There is a sufi lodge known by the name of Sayakhs.</t>
+    </s>
+    <s>
+      <o>Дар Бухоро эшони шаҳирхонӣ будааст, бо номи Худойбердӣ халифа.</o>
+      <!-- decide what to do with шаҳирхонӣ-->
+      <t>In Bukhara there was an ishan by the name of Khudayberdi Khalifa</t>
+    </s>
+    <s>
+      <o>Ин мӯйсафед бародари ҳазрати Эшон будаанд.</o>
+      <t>This white-beard was the brother of Hazrat Ishan.</t>
+    </s>
+    <s>
+      <o>Он кас маро ба хонақоҳ бурда, куҷое ражтанд.</o>
+      <t>That person (on the train) took me to this sufi lodge, then left.</t>
+    </s>
+    <s>
+      <o>Ман намози аср, шому хуфтанро дар ин хона хондам.</o>
+      <!-- I wondr if khana here is supposed to be khanaqah -->
+      <t>I performed my afternoon, evening and bedtime prayers there.</t>
+    </s>
+    <s>
+      <o>Баъди намози хуфтан ҳазрати Эшон ба ҳалқа даромаданд, ки сураи Таборак-ро қироът
+        кардам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Самараи хубе дод, ки баъди намоз як одам пурсид: <q>Қории қироъаткарда кист?</q></o>
+      <t>My recitation made such an impression that after prayer someone asked: Who was
+        reciting?</t>
+    </s>
+    <s>
+      <o><q>Ман,</q> ҷавоб додам</o>
+      <t>I replied that it was me.</t>
+    </s>
+    <s>
+      <o>Шуморо ҳазрати Эшон даъват мекунанд гуфта, маро ба чиллахона даровард.</o>
+      <t>Saying that Hazrat Eshan was inviting me, he took me to the Chillakhana.</t>
+      <!-- translate chillakhana? if so, how? -->
+    </s>
+    <s>
+      <o>Ҳазратро зиёрат кардам.</o>
+      <t>I visited the Hazrat.</t>
+    </s>
+    <s>
+      <o>Ҳазрати Эшон аз аҳворам пурсон шуданд: <q>Бароӣ чӣ ба Бухоро омадед?</q></o>
+      <t>Hazrat Eshan asked about my status: WHy have you come to Bukhara?</t>
+    </s>
+    <s>
+      <o><q>Барои таҳсил,</q> гуфтам.</o>
+      <t>For study, I replied.</t>
+    </s>
+    <s>
+      <o><q>Қории мураттаб хастед?</q> суол карданд.</o>
+      <t/>
+      <!-- decide how to translate murattab in this context -->
+    </s>
+    <s>
+      <o/>
+      <t/>
+    </s>
+    <s>
+      <o><q>Бале,</q> ҷавоб гуфтам.</o>
+      <t>Yes, I replied.</t>
+    </s>
+    <s>
+      <o><q>Сураи Музаммид-ро қироат кунед,</q> гуфтанд.</o>
+      <t>Read the Muzammid Surah, he said.</t>
+    </s>
+    <s>
+      <o/>
+      <t/>
+    </s>
+    <s>
+      <o>Қироъат кардам.</o>
+      <t>And so I recited.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ҳазрати Эшон хеле таҳсин карданд.</o>
+      <t>Hazrat Eshan showered me with praise.</t>
+    </s>
+    <s>
+      <o>Писари хурдашонро даъват карда, тавсия доданд, ки ин рафиқатро ба ҳуҷра бар.</o>
+      <t/>
+      <!-- decide how exactly how to translate end of this sentence. -->
+    </s>
+    <s>
+      <o>Якҷоя истиқомат кунед, ба дарс ҳам бар, ки <ref>Шарҳи Ҷомӣ</ref> мехондааст.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Боз маро таъкид карданд, ки ҳар саҳар сӯфӣ шуморо аз хоб бедор мекунам, баъди таҳорат бе
+        назди ман омада, сураи Музаммилро тиловат мекунед.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳамин тавр, ҳар саҳар барвақт ҳангоми намози бомдот маро суфӣ бо худ мебурд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Рӯзона бо Эшонҷон ба дарс мерафтам, ки ҳамин тарз се моҳ давом кард.</o>
+      <t>I attended lessons with the Eshon daily for three months.</t>
+    </s>
+    <s>
+      <o>Баъдан бароям истиқомат дар ин ҷо мушкил гардид.</o>
+      <t>After that living in that place became difficult for me.</t>
+    </s>
+    <s>
+      <o>Зеро ба ҳуҷраи Эшонҷон меҳмонон зиёд меомаданд, ки ба дарсхонимам монеъ мушуданд.</o>
+      <t>This was because the Eshon was hosting many differet guests, which got in the way of my
+        studying.</t>
+    </s>
+    <s>
+      <o>Баъзан аз ҳазрати Эшонҷон рухсат гирифта, бу дахмаашон рафтам ва дар ҳамон ҷо истиқомат
+        кардам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳарчанд дар хуҷраи Эшонҷон маишатам хуб буд, барои зиндагӣ ҳама чиз мерасид, вале
+        дарсхониам хуб набуд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ба гӯрхона кӯчидам ва дар бисотам чизи кофӣ барои таҳсил набуд</o>
+      <t/>
+    </s>
+    <s>
+      <o>Азоб мекашидам, вале таваккал ба ходо кардам,<pg no="121"/> ки ризқро Аллоҳ Таъоло
+        медиҳад.</o>
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Як рӯз баъди дарс аз назди дӯкони нонвой мегузаштам, ки нонвой ҷеғ зада, ду дона нон
+        дод.</o>
+      <t>One day after the lesson I passed by a bakery; the baker shouted to me and gave me two
+        loafs of bread.</t>
+    </s>
+    <s>
+      <o>Ҳамон рӯз гурусна будам.</o>
+      <t>That very day I was hungry.</t>
+    </s>
+    <s>
+      <o>Ба дили ин одам бо фазлу карами парвардигор ҳар рӯз бароям ду нон доданро андохт, ки нонвой
+        мегуфт: <q>Ҳар рӯз Шумо ҳангоми баргафтанатон ду нон гиред.</q></o>
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ҳамин тариқ рӯзии ман пайдо шуд.</o>
+      <t>In this manner, I obtained my daily sustenance.</t>
+    </s>
+    <s>
+      <o>Дар байни толибилмон қоидае буд, ки пеш аз дарс ба ҳар кас андоз мебастанд.</o>
+      <t>There was a rule amongst the students that each person would pay a tithe before the
+        lesson.</t>
+      <c type="ling">The word translated as 'tithe' here (andāz) is the modern Tajik word for
+        'tax.'</c>
+    </s>
+    <s>
+      <o>Пул ҷамъ кардан ва ба мударрис домулло одати дастархан кардан буд.</o>
+      <t>The tradition was to gather the money and then present it to the teacher</t>
+      <!--check on syntax / literal meaning of dastarkhan here-->
+    </s>
+    <s>
+      <o>Аз <ref>Шарҳи Мулло</ref> боби Маъруфот-ро тамом карда, барои оғози боби Мансубот пул лозим
+        шуд.</o>
+      <t>The offering was made uplon completion of the Ma'rufāt chapter of Sharḥ-i Mullā and before
+        beginning the Manṣūbāt chapter.</t>
+    </s>
+    <s>
+      <o>Ба ман се сӯм андоз бастанд, ки пул надоштам.</o>
+      <t>Was due to tithe three Som, but did not have the money.</t>
+    </s>
+    <s>
+      <o><q>Агар насупоред, барои ба дарс даромадан иҷозат нест,</q> гуфта маҷбур мекарданд.</o>
+      <t><q>If you do not pay, then beginning the lesson is not permitted</q> was the injunction
+        imposed upon me.</t>
+      <!-- commentary on the 'gufta' / db grammar here; also massage translation -->
+    </s>
+    <s>
+      <o>Ниҳоят ғамгин бо чашмони гирён ба Парвардигор дар дилам аз камбағалӣ нола мекардам ва бо
+        сари ҳам тарафи ҳуҷраам мерафтам, ки дар байни сангҳо ногоҳ як чиз ба чашмам ҷило дод.</o>
+      <t>In the depths of despair and with tears flowing from my eyes, I was lamenting my poverty to
+        the Almighty in my heart, when suddenly I noticed a glint amidst the stones.</t>
+    </s>
+    <s>
+      <o>Гирифтам бинам ангуштарини занона будааст.</o>
+      <t>Picking it up for a closer look, it was a woman's ring.</t>
+    </s>
+    <s>
+      <o>Ман дар умрам бори аввал чунин ангуштаринро медидам ва нархашро ҳам намедонистам.</o>
+      <t>This was the first time in my entire life that I had seen such a ring and I did not know
+        its value.</t>
+    </s>
+    <s>
+      <o>Аз дилам гузашт, ки агар онро ба се сӯм фурӯшам, аз андоз халос мешавам.</o>
+      <t/>
+      <!--check into implications of Аз дилам гузаштАз дилам гузашт
+-->
+    </s>
+    <s>
+      <o>Аз роҳам баргашта ба фурӯшандагони Девонабегии Лаби Ҳавз, ки аз мардуми Қафқоз буданд,
+        гирифта омадам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ангуштаринро нишон додам гирифта пурсид: <q>Ба чанд сӯм мефурӯшед?</q></o>
+      <t>When I showed him the ring, he took it and asked: <q>How many Som are you selling it
+          for?</q></t>
+    </s>
+    <s>
+      <o>Ман, ки нархи онро намедонистам, гуфтам: <q>Худатон ягон чиз диҳед.</q></o>
+      <t>I, who did not know the price, said: <q>Just give me something for it.</q></t>
+    </s>
+    <s>
+      <o>Гуфт: <q>Сӣ сӯм медиҳам, фурӯшед.</q></o>
+      <t>He said: I will give you thirty Som for it.</t>
+    </s>
+    <s>
+      <o>Намефурӯшам гуфта, агуштаринро аз дасташ гирифтам.</o>
+      <t>Saying that I would not sell it, I snatched the ring from his hand.</t>
+    </s>
+    <s>
+      <o>Фурӯфандаи дигар аз ин ҳол хабардор шуда, маро ҷеғ зад ва хоҳиши ангуштаринро дидан
+        кард.</o>
+      <t>A different merchant noticed what was going on and shouted to me tha the wished to see the
+        ring.</t>
+    </s>
+    <s>
+      <o><q>Чанд сӯм гуфт</q>, - пурсид ӯ.</o>
+      <t><q>How many Som did he say?</q> he asked.</t>
+    </s>
+    <s>
+      <o><q>Сӣ сӯм доданӣ шуд, нафурӯхтам,</q> - гуфтам.</o>
+      <t><q>He said he would buy it for thirty Som, but I did not sell it,</q> I said.</t>
+      <c type="ling">dādanī is the (discuss future intentional by its various names)</c>
+    </s>
+    <s>
+      <o><q>Ин хел бошад, чил сӯм медиҳам,</q> - гуфт ин одам.</o>
+      <t><q>Here's the deal: I will give you forty Som,</q> the man said.</t>
+    </s>
+    <s>
+      <o>Намефурӯшам, - гуфтам онро аз дасташ гирифта, ба роҳ даромадам.</o>
+      <t><q>I am not selling,</q> - I said, taking it from his hand, and intering the road.</t>
+    </s>
+    <s>
+      <o>Боз ҷеғ зада, гуфт, ки <q>панҷоҳ сӯм медиҳам.</q></o>
+      <t>Again he shouted out, saying that he would buy it for fifty Som</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><pg no="122"/>Хуллас нархи ангуштарин боло мерафт ва ба 80 сӯм расид.</o>
+      <t>Ultimately the price of the ring increased to 80 Som.</t>
+    </s>
+    <s>
+      <o>Ҳайрон будам, ки аз чӣ сохта шудааст.</o>
+      <t>I was surprised because I did not know what it was made out of.</t>
+    </s>
+    <s>
+      <o>Баъд маълум шуд, ки ҳалқааш тилло ва нигинаш алмос будааст.</o>
+      <t>Later it became apparent that the ring was gold and the stone was a diamond.</t>
+    </s>
+    <s>
+      <o>Охир ба 80 сӯм фурӯхтам.</o>
+      <t>In the end, I sold it for 80 Som.</t>
+    </s>
+    <s>
+      <o>Он замон хурсандиам ҳадду канор надошт.</o>
+      <t>At that time, my happiness knew no bounds.</t>
+    </s>
+    <s>
+      <o>Як сол маблағи зиндагонию маишатро Парвардигор бароям ато кард.</o>
+      <t>The Almighty had bestowed upon me enough funds to sustain my livelihood for a full
+        year.</t>
+    </s>
+    <s>
+      <o>Андозро супорида, бо ҳамроҳионам зиёфат ҳам кардам.</o>
+      <t>I paid the tithe and treated my comrades to a feast.</t>
+    </s>
+    <s>
+      <o>Ҳамроҳонам аз ҳоли ман тааҷҷубашон омада мепурсиданд: <q>Ту аз ягон ҷо дуздӣ кардӣ?</q></o>
+      <t>My situation surprised my colleagues, who asked: <q>Did you rob somewhere?</q></t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ҳавои Бухоро дар айёми тобистон ниҳоят гарм мешуд.</o>
+      <t>During the summer Bukhara was extremely hot.</t>
+    </s>
+    <s>
+      <o>Тобистон ба ҷойҳои салқин мерафтанд, ки ман ҳам ба Ҳӯқанд раҳсипор шудам.</o>
+      <t>During the summer, many people went to cooler places; similarly, I went to Khuqand.</t>
+    </s>
+    <s>
+      <o>Ба ҳавлиамон омадам.</o>
+      <t>I went home.</t>
+    </s>
+    <s>
+      <o>Дар ин давра Ҷанги Якуми Ҷаҳон сар шуда буд.</o>
+      <t>During this period, the First World War began.</t>
+    </s>
+    <s>
+      <o>Ҳукумат барои коргарӣ аз панҷ хона як нафарро мегирифт.</o>
+      <t>The [Tsarist] government conscripted one individual from every five households for labor
+        detail.</t>
+      <c type="hist"><!--this one will need a historical gloss--></c>
+    </s>
+    <s>
+      <o>Падарам гуфтанд: <q>Ба зудӣ ба Бухоро гашта рав, ки элликбошӣ (саркор) номи туро ҳам
+          навштааст.</q></o>
+      <t>My father said: <q>Go quickly to Bukhara because a local official has written your name
+          down.</q></t>
+      <c type="hist"><!--элликбошӣ (саркор)--></c>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ман боз ба сӯи Бухоро роҳ пеш гирифтам.</o>
+      <t>Once again I set out for Bukhara.</t>
+    </s>
+    <s>
+      <o>Дар он айём дар Бухоро дарс набуд.</o>
+      <t>At that time there were no lessons being offered in Bukhara.</t>
+    </s>
+    <s>
+      <o>Чор нафар аз ҳамроҳонам аҳди ба шаҳри Мазори Шараифи Балхи Афғонистон рафтан карда будаанд,
+        ки ман ҳам хоҳиши ҳамсафарӣ намудам.</o>
+      <!-- check into the precise grammatical construction:  рафтан карда будаанд-->
+      <!-- Шараифи appears to be a typo: probably the transcriber -->
+      <!-- аҳди used in this way? -->
+      <t> </t>
+    </s>
+    <s>
+      <o>Ба ҳазрати Эшон арзи матлаб кардам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳазрати Эшон гуфтанд: <q>Дар Мазори Сахӣ муридони мо ҳастанд, ки одамони аҳли
+          давлатанд.</q></o>
+      <t/>
+    </s>
+    <s>
+      <o><q>Амонате медиҳам, ки ба ҳамон одам медиҳед.</q></o>
+      <t/>
+    </s>
+    <s>
+      <o>Иззату эҳтироматонро ба ҷо меоварад, ҷой ҳам медиҳад.</o>
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Рисолаи форсии <ref>Анфос</ref> ва як тоқиро амонат доданд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ба Мазори Шариф раҳсипор шудем.</o>
+      <t>We set out for Mazar-i Sharif</t>
+    </s>
+    <s>
+      <o>Бо киштӣ аз Амударё гузашта, харро кироя кардем ва ба Мазори Сахӣ рафтем.</o>
+      <t>We crossed the Amu Darya in a boat, rented a donkey, and then wen to the Blue Mosque of
+        Ali.</t>
+      <!-- should markup rough translations like Blue Mosque here -->
+      <c type="hist"><!-- explain ziyarat-i Sakhi --></c>
+    </s>
+    <s>
+      <o>Мазорро зиёрат карда, дар ҳамон ҷо хом рафтем.</o>
+      <t>We performed the pilgrimate to the shrine and slept there as well.</t>
+    </s>
+    <s>
+      <o>Ҳамроҳонам аз ман ҷудо шуда рафтант.</o>
+      <t>My companions parted ways with me and left.</t>
+    </s>
+    <s>
+      <o>Рӯзона мазорро давр мезадам, ки аз болохона овози қорибачаҳо баромад.</o>
+      <t>Every day I would walk around the shrine as the voices of the young Qur'an reciters came
+        down from above.</t>
+    </s>
+    <s>
+      <o>Ба болохоона баромадам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Як домуллои мӯйсафед нишаста, тахмин 20 қорибачаҳо бо қироъати Қуръон машғул буданд.</o>
+      <t>A whitehaired mulla was sitting, and approximately twenty young students were engaged in
+        Qur'an recitation.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><q>Шумо аз куҷо омадаед?</q> - пурсон шуданд домулло.</o>
+      <t><q>Where have you come from?</q> - the mulla inquired.</t>
+    </s>
+    <s>
+      <o><q>Аз Бухоро,</q> - гуфтам.</o>
+      <t><q>From Bukhara,</q> I replied.</t>
+    </s>
+    <s>
+      <o><q>Шумо қориед?</q> - пурсиданд.</o>
+      <t><q>Are you a qari?</q> he asked.</t>
+      <!-- need to decide if I am going to translate or transliterate the term qari -->
+    </s>
+    <s>
+      <o><q>Бале,</q> - ҷавоб додамю</o>
+      <t><q>Yes,</q> I replied</t>
+    </s>
+    <s>
+      <o><pg no="123"/><q>Қуръонро пурра ҳифз кардед?</q> - боз суол карданд.</o>
+      <t><q>Have you memorized the Quran?</q> he continued with his inquiry.</t>
+    </s>
+    <s>
+      <o><q>Қуръон мураттабам, ҳамаашро ёд кардаам,</q> - ҷавоб додам.</o>
+      <t/>
+    </s>
+    <s>
+      <o><q><ref>Сураи Марям</ref>-ро аз аввалаш қироъат кунед,</q> - гуфтанд домуллою</o>
+      <t><q>Read the Surah "Maryam" from the beginning,</q> said the mulla.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ман як саҳифа қироъат кардам.</o>
+      <t>I recited one page.</t>
+    </s>
+    <s>
+      <o>Қоридомулло барои қироатам хеле таҳсин гуфтанд.</o>
+      <t>The qari-instructor lavished praise upon my recitation.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><q>Ба Шумо аз ҳамин мазор як ҳуҷра медиҳам, ду қорибачаро дар хизмататон мегузорам.</q></o>
+      <t><q>I will give you a room in this very shrine, and will put two qari-students at your
+          service.</q></t>
+    </s>
+    <s>
+      <o><q>Ду маҳал хӯрок меоранд, саҳар чою нон муҳойё мекунанд.</q></o>
+      <t><q>They will bring you a two-course meal, and at dawn they will prepare tea and
+        bread.</q></t>
+    </s>
+    <s>
+      <o><q>Вазифаи Шумо ҳангоми ба кор рафтанам ба ҷои ман ба қорибачаҳо сабақ медиҳед,</q> -
+        гуфтанд баъд.</o>
+      <t><q>Your responsibility will be to teach the qari-students while I work on other things,</q>
+        he then said.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><q>Ман толибилмам, дарсам чӣ мешавад?</q> - гуфтам</o>
+      <t><q>I am still a student, what should I teach?</q> I said</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><q>Дар ин мазор шахси машҳури дарсгӯ ҳастанд.</q></o>
+      <t><q>There is a famous teacher in this shrine.</q></t>
+    </s>
+    <s>
+      <o><q>Ба ҳамон кас вобаста мекунем, дарсатон ҳам давом меёбад,</q> - гуфтанд қоримулло.</o>
+      <t><q>We rely on that individual, and your lessons will follow suit,</q> - said the
+        qari-instructor</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Хулоса, ҳуҷраеро дода, ду қорибачаро вобаста карданд.</o>
+      <t>In the end, they have me a room, along with two qari-students (to assist me).</t>
+    </s>
+    <s>
+      <o>Ман ба ҷои қоридомулло гоҳ-гоҳ ҳангоми ба ҷое рафтанашон дарс медодам.</o>
+      <t>Some of the time I taught in place of the qari-instructor when he had to go somewhere.</t>
+    </s>
+    <s>
+      <o>Маро ба домуллои машҳур исми муборакашон Мирмуҳаммад Ғавси Сайидзода шинос карданд.</o>
+      <t>I was introduced to the famous scholar, whose good name was Mir-Muhammad Ghavsi
+        Sayyidzoda.</t>
+    </s>
+    <s>
+      <o>Қозидомулло аз ман пурсиданд: <q>Дар бухоро чӣ дарс хондед?</q></o>
+      <t>Qazidamulla (referring to Mir-Muhammad) asked me: <q>What did you study in Bukhara?</q></t>
+    </s>
+    <s>
+      <o><q>То <ref>Шарҳи Мулло</ref>-ро хондаам,</q> - гуфтам.</o>
+      <t><q>I have read up to Sharḥ-i Mullā,</q> I said</t>
+      <c type="hist">Hindustani responds that he has read "up to" Sharḥ-i Mullā, implying that he
+        had read all of the texts leading up to that point, because the Bukharan madrasa curriculum
+        was surprisingly standardized, despite the lack of any central authority making it so. See
+        <!--cite polymaths--></c>
+    </s>
+    <s>
+      <o>Маро аз мадхали Кофия боби Исм имтиҳон карданд, ки ба саволҳояшон ҷавоб гуфта
+        натавонистам.</o>
+      <t>He quizzed me from the Kāfiyya section of the Ism chapter, after which point I was no
+        longer able to answer his questions.</t>
+    </s>
+    <s>
+      <o>Боз аз илми сарф савол карданд.</o>
+      <t>Next he asked me about the Arabic syntax.</t>
+      <c type="hist"><!--on sarf--></c>
+    </s>
+    <s>
+      <o>Боз ҳам ҷавоб дода натавонистам.</o>
+      <t>Again I was unable to answer.</t>
+    </s>
+    <s>
+      <o>Баъд аз эълолияву сарф пурсон шуданд.</o>
+      <t/>
+    </s>
+    <s>
+      <o><q>Намедонам</q>, - гуфтам.</o>
+      <t><q>I don't know,</q> I said.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><q>Ҳамаи дарсҳои хондаат бекор.</q></o>
+      <t><q>All of your studies have been in vain.</q></t>
+    </s>
+    <s>
+      <o><q>Аз нав мехонӣ сарфу эълолияро аз як қорӣ мехонӣ.</q></o>
+      <t>You will start from the beginning, reading syntax <!--check--> with the help of a qari.</t>
+    </s>
+    <s>
+      <o><q>Баъди вай ман <ref>Муъзӣ</ref>, <ref>Занҷонй</ref>-ро дарс медиҳам,</q> - гуфтанд.</o>
+      <t><q>Then I will teach you Mu'zi and Zanjani,</q> he said.</t>
+    </s>
+    <s>
+      <o>Ҳазрат маро ба назди қорӣ фиристоданд.</o>
+      <t>The scholar sent me to a qari.</t>
+    </s>
+    <s>
+      <o>Бисту ду боби Муъзӣ-ро бояд эълол мекардам.</o>
+      <!--need to figure out this i'lal business-->
+      <t/>
+    </s>
+    <s>
+      <o>Ба як ҷамоъаи талабагон маро ҳамроҳ карданд.</o>
+      <t>He placed me with a group of students.</t>
+    </s>
+    <s>
+      <o>Дарсҳоро ба дафтар навишта ёд мекардам.</o>
+      <!--check: I think means that he copied it into a notebook to memorize it-->
+      <t/>
+    </s>
+    <s>
+      <o>Дар шаш моҳ эълолро ба охир расонидам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳарчанд то <ref>Шаҳри Мулло</ref>-ро хонда будам, аз ҳоли худ мутаасир гашта, боз аз нав
+        дар қатори дигарон аз аввал сар кардам.</o>
+      <t><!--figre out аз ҳоли худ мутаасир гашта part--></t>
+    </s>
+    <s>
+      <o>Таҳсил сесолаам бекор шуд.</o>
+      <t>Three years of study had been for naught.</t>
+    </s>
+    <s>
+      <o>Баъди ба охир расонидани эълол ба назди ҳазрати домулло <pg no="124"/>омадам, ки маро
+        имтиҳон карданд.</o>
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o><q>Хуб,</q> - гуфтанд ва дар назди он как <ref>Муъзи</ref>-ро сар кардам.</o>
+      <t><q>Good,</q> he said, and I began reading Mu'zi.</t>
+    </s>
+    <s>
+      <o>Дар андак муддат онро ба итмом расондам.</o>
+      <t>After some time I finished it.</t>
+    </s>
+    <s>
+      <o>Баъд <ref>Занҷони</ref>-ро хондам, онро тамом карда, <ref>Марроҳул арвоҳ</ref>-ро
+        хондам.</o>
+      <t/>
+    </s>
+    <s>
+      <o><ref>Ҳаракот</ref>-ро хондам.</o>
+      <t>Then I read Harakat.</t>
+    </s>
+    <s>
+      <o><ref>Ҳидояту наҳву кофия</ref>-ро хондам.</o>
+      <t/>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Дар як сол инҳоро тамом карда, <ref>Шарҳи Мулло</ref>-ро сар кардам.</o>
+      <t>In one year I finished these texts and then began Sharh-i Mulla</t>
+    </s>
+    <s>
+      <o>Акнун хондани ман дигар хел буд.</o>
+      <t>Now my studies were on a different level.</t>
+    </s>
+    <s>
+      <o>Дарсҳоро хуб мефаҳмидам.</o>
+      <t>I understood my lessons well.</t>
+    </s>
+    <s>
+      <o>Ибораҳои Шарҳи Мулло-ро бехато мехондам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Илова бар ин <ref>Мизону-л-мантиқ</ref>, <ref>Мирқот</ref>, ки мантиқро пурра мекард,
+          <ref>шарҳи бадеии Мизон</ref>, <ref>Шарҳи Таҳзиби Шамсия</ref>, <ref>Қутбия бо Шарҳи
+          Сулам</ref>, <ref>Шарҳи Бедилу</ref>
+        <ref>Мирзо Бедил</ref>ро дар назди Қозидомулло хонда тамом кардам.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Чӣ будани дарсро нав фаҳмидам.</o>
+      <t>I understood these lessons with fresh eyes.</t>
+    </s>
+    <s>
+      <o>Ҳамаи вақтҳо падарам ба суроғи ман ба Бухоро омада буданд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ба Мазори Шариф рафтанамро шунида, ба Мазори Шариф омаданд. Дар ин байн Мирзо Муҳаммад
+        Қосимбойро ёфта, амоноти Ҳазрати Эшонро супурдам</o>
+      <t/>
+    </s>
+    <s>
+      <o>Худи Мирзо Муҳаммад Қосимбой масҷиде сохта буданд, ки яке ҳуҷраҳойшро ба ман доданд.</o>
+      <t>Mirza Muhammad Qasimbay had built a mosque, from which he gave me one of the dorm
+        rooms.</t>
+    </s>
+    <s>
+      <o>Дар ҳамин ҷо истиқомат кунет, - гуфтант.</o>
+      <t><q>You can live there,</q> he said.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Аз мазор ба масҷид кӯчидам.</o>
+      <t>I moved from the shrine complex to the mosque.</t>
+    </s>
+    <s>
+      <o>Ҳангоми омадани падарам дар масҷид истиқомат мекардам.</o>
+      <t>While my father was on his way (to Mazar-i Sharif) I resided in the mosque.</t>
+    </s>
+    <!--first metion of the Revolution-->
+    <s>
+      <o>Ҳамон сол, соли 1917, аввали Инқилоб будааст.</o>
+      <t>That year, 1917, the Revolution began.</t>
+    </s>
+    <s>
+      <o>Қиблагоҳам ҳоли маро дида хурсанд шуданд: <q>Ман барои бурданат омада будам.</q></o>
+      <t>Upon seeing how I was doing, my father was happy: <q>I had come to take you away.</q></t>
+    </s>
+    <s>
+      <o><q>Маълум шуд, ки ҷоят тинҷ, дарсро давом медиҳӣ.</q></o>
+      <t><q>It has become clear that your position is comfortable and that you will continue your
+          lessons.</q></t>
+    </s>
+    <s>
+      <o><q>Туро намебарам: дар ҳамин ҷо истиқомат кун</q>, гуфта, маро монда рафтанд.</o>
+      <t><q>I will not take you aware from here: remain in your place,</q> he said before leaving
+        me.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Хуллас, ду сол дар Мазори Шариф истиқомат кардам.</o>
+      <t>In the end, I spent two years in Mazari-i Sharif.</t>
+    </s>
+    <s>
+      <o>Дар моҳҳои Рамазон дар Мазори Шариф ба хатм гузаштам.</o>
+      <t>I finished my studies in Mazar-i Sharif the month of Ramadan.</t>
+      <!-- why months plural here? -->
+    </s>
+    <s>
+      <o>Бо талабаҳояшон Қозидомулло дар ҳавлиашон хатм карданд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Қозидомулло шогирди бисёр надофтанд, аз шаш-ҳафт нафар зиёд набуд.</o>
+      <t>Qazidamulla did not have many students - no more than six or seven.</t>
+    </s>
+    <s>
+      <o>Дар байни онҳо пасқадамашон ман будам.</o>
+      <t><!--author was the student furthest behind? check--></t>
+    </s>
+    <s>
+      <o>Дигар ҳамаашон <ref>Шарҳи Ақоид</ref> в дарсҳои калон мехонданд.</o>
+      <t>The rest of them were studying Sharh-i Aqa'id and other advanced texts.</t>
+    </s>
+    <s>
+      <o>Дар байни шогирдони Қозидомулло як толибилми афғон буд, ки бо номи Мулло Фақир машҳур.</o>
+      <t>Among Qazidamulla's pupils there was an Afghan Student known by the name of Mulla
+        Faqir.</t>
+    </s>
+    <s>
+      <o>Шарҳи Ақоид мехонд ва ин шахси аҷоиб тарки дунё карда, ходоҷӯи ҷозибанок буд.</o>
+      <t><!--he was an ascetic type: check phrasing--></t>
+    </s>
+    <s>
+      <o>Қозидомулло ин толибилмро ниҳоят ҳурмат мекарданд.</o>
+      <t>Qazidamulla respected this student greatly.</t>
+    </s>
+    <s>
+      <o>Он <pg no="125"/>шахс ба як вилоят басанда буданд.</o>
+      <t><!--I think this means he lived nearby?--></t>
+    </s>
+    <s>
+      <o>Рӯзона ба дарс меомаданд, дарсро хонда, шабона дар қабирстон мехуфтанд.</o>
+      <t>By day he came to class, studied, and then by night he slept in the graveyard.</t>
+    </s>
+    <s>
+      <o>Сифатҳои ин шахс ба гуфтан тамом намешавад.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ба Қозидомулло ҳодисае рух дод, ки аз тарафи ҳукумат аз Афғонистон ба Бухоро бадарға
+        шуданд.</o>
+      <t><!--seems he was exiled from Afghanistan to Bukhara--></t>
+    </s>
+    <s>
+      <o>Ба ҳамаи талабаҳо рухсат доданд, танҳо ба се нафар иҷозат надоданд.</o>
+      <t><!--need to think about how best to translate 'permission' here--></t>
+    </s>
+    <s>
+      <o>Яке, Мулло Фақир буд, ки ҳамроҳи ман меравед, гуфтанд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ба ман ҳам рухсат доданд, барои ба Бухоро рафтан.</o>
+      <t>They gave me leave to go to Bukhara.<!--does rukhsat have another meaning here?--></t>
+    </s>
+    <s>
+      <o>Қозидомулло фарзанд надоштанд.</o>
+      <t>Qazidamulla did not have children.</t>
+    </s>
+    <s>
+      <o>Як писарашон илмро пурра хонда, олим шуда будант, ки дар синни ҳаждаҳсолагӣ вафот
+        карданд.</o>
+      <t>One of his sons completed his studies, became a scholar, but died at the age of
+        eighteen.</t>
+    </s>
+    <s>
+      <o>Баъди аз фироқи он писар вафот кардани завҷааш Қозидомулло ба як зан хонадор шуданд, ки аз
+        он бача нашуд.</o>
+      <t>After the loss of his son and the death of his wife, Qazidamulla married a widow with whom
+        he did not have any children.
+        <!--check khana-dar here, is it indeed implying she already had a family--></t>
+    </s>
+    <!-- going to Qarshi -->
+    <s>
+      <o>Зану додарарӯсашонро ҳамроҳ гирифта, ба панҷ асп савор шуда, аз Амударё гузаштем ва ба
+        Қаршӣ омадем.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Дар Қаршӣ се рӯз истода, ба Бухоро омадем.</o>
+      <t>We stopped in Qarshi for three days before coming to Bukhara.</t>
+    </s>
+    <s>
+      <o>Ҳазрати Баҳоуддинро зиёрат карда, занашонро дар хонаи як шайх монданд.</o>
+      <t>After visiting the Baha al-Din (Naqshband) shrine, he left his wife in the house of a
+        shaykh.</t>
+    </s>
+    <s>
+      <o>Қозидомулло, мулло Фақир, мо се нафар ба Бухоро омадем.</o>
+      <t>The three of us - myself, Qazidamulla, and Mulla Faqir - arrived in Bukhara.</t>
+    </s>
+    <s>
+      <o>Дар ҳавлии як нафаре, ки аз Афғонистон омада дар Бухоро зиндагӣ мекардааст, меҳмон
+        шудем.</o>
+      <t>We stayed as guests in the villa of a man who had come to Bukhara from Afghanistan.</t>
+    </s>
+    <s>
+      <o>Ӯ маддоҳӣ мекардааст.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Дар Девонабегии Лаби Ҳавз сухангӯ будааст.</o>
+      <t>He was performing near the Devan-begi (madrasa) at Labi Hawz.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ба толибилмон хабар додем, ки як аллома аз Афғонистон омадаанд, ҳар ки толиби илм бошад, ба
+        наздаш равад.</o>
+      <t>We informed the students that a luminary from Afghanistan had arrived, and that all
+        students should visit him.</t>
+      <!--ба наздаш равад: can I translate this as "visit"?-->
+    </s>
+    <s>
+      <o>Дар андак муддат Қозидомулло машхур шуданд.</o>
+      <t>Qazidamulla became famous in no time.</t>
+    </s>
+    <s>
+      <o>Як вазири амири Бухоро - Миролим мухлиси Қозидомулло шуда, он ҳазратро дар як ҳавлӣ ҷой
+        кард.</o>
+      <t>One of the ministers of the amir of Bukhara, Mir Alim, became close with Qazidamulla and
+        cohabited a villa.</t>
+      <!--mukhlis... is this implying a beloved situation? worth a comment?-->
+    </s>
+    <s>
+      <o>Қозидомулло занашонро оварда, дар ҳамин ҳавлӣ истиқомат карданд.</o>
+      <t>Qazidamulla brought his wives to live in the same villa as well.</t>
+    </s>
+    <s>
+      <o>Баъди чор моҳи дарс гуфтани Қозидомулло дар Бухоро тобистон шуд, ҳаво тасфид.</o>
+      <t>After Qazidamulla taught for four months in Bukhara, summer arrived and the weather became
+        warm.</t>
+    </s>
+    <s>
+      <o>Мулло Фақир аз Қозидомулло иҷозат гирифта, боз ба Афғонистон баргаштанд.</o>
+      <t>Mulla Faqir recieved a diploma from Qazidamulla and returned to Afghanistan.</t>
+      <c type="hist"><!--explain and reference translation of ijazat as 'diploma'--></c>
+    </s>
+    <s>
+      <o>Ҳавои гарми Бухоро ба Қозидомулло нафорид, табларза шуданд.</o>
+      <t>Bukhara's warm weather did not suit Qazidamulla and he fell ill with a fever and
+        chills.</t>
+      <!--could note here that this language matches Persian documents; could also gloss the foridan verb specific to Tajik-->
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Тоҷирони аз Тошканд омада Қозидомуллоро ба Тошканд даъват карданд.</o>
+      <t>Merchants arrived from Tashkent and invited Qazidamulla to Tashkent.</t>
+    </s>
+    <!-- start Tashkent section -->
+    <s>
+      <o>Қозидомулло боз моро бо худ гирифта ба Тошканд бурданд.</o>
+      <t>Qazidamulla gathered us [students] and took us with him to Tashkent.</t>
+    </s>
+    <s>
+      <o>Занашон дар Бухоро монд.</o>
+      <t>His wife remained behind in Bukhara.</t>
+    </s>
+    <s>
+      <o>Ҳавои Тошканд хуш омад, аз касалӣ раҳоӣ ёфтанд.</o>
+      <t>The weather in Tashkent was much more pleasing and Qazidamulla recovered from his
+        illness.</t>
+    </s>
+    <s>
+      <o>Бойҳои ба Тошканд даъваткарда аз Қозидомулло хоҳиш намуданд, ки дар Тошканд монданд.</o>
+      <t>The wealthy merchants who had invited Qazidamulla to Tashkent implored him to remain
+        there.</t>
+    </s>
+    <s>
+      <o>Муқаррар шуд, ки дар мадрасаи Кукалдош дарс гӯянд.</o>
+      <t>It was determined that he would teach in the Kukaldosh madrasa.</t>
+      <c type="hist"><!--gloss about this madrasa--></c>
+    </s>
+    <s>
+      <o>Занашонро ҳам оварданд.</o>
+      <t>At this point they fetched his wife [from Bukhara].</t>
+    </s>
+    <s>
+      <o>Дар ин вақт подшоҳи Афғонистон кушта шуд.</o>
+      <t>At this time the monarch of Afghanistan was killed.</t>
+      <!-- gloss padishah versus monarch decisions (next line too) -->
+    </s>
+    <s>
+      <o>Ба ҷояш Амонуллоҳ ном <pg no="126"/> писараш подшоҳ шуд.</o>
+      <t>The monarch's son, Amanullah, took his place as padishah.</t>
+      <c type="hist"><!--placeholder for historical gloss on Amanullah--></c>
+    </s>
+    <s>
+      <o>Ин подшоҳ бо Ҳукумати Шӯравӣ аҳд баста, консул фиристод.</o>
+      <t>This new monarch made an agreement with the Soviet government and sent a consul.</t>
+    </s>
+    <s>
+      <o>Дар Тошканд консул Қозидомуллоро ҷеғ зада, фармони подшоҳро дод, ки Қозидомуллоро подшоҳ
+        боз ба Афғонистон даъват кардааст.</o>
+      <t>In Tashkent shouted
+        <!--actually check wth Nasriddin about this translation, wehtehr the jig'
+        implies that he shouted to him on the street, or just means invited: љеѓ задан а) фарёд
+        кардан, даъват кардан пеши худ, хондан; б) номбар кардан, номашро гирифта даъват кардан,
+        мурољиат кардан;--></t>
+    </s>
+    <s>
+      <o>Консул гуфт: <q>Ҳароҷоти роҳатонро медиҳем, баргашта ба Афғонистон меравед.</q></o>
+      <t>The Afghanistani consul said: <q>We will provide for all your material comfort if you
+          return to Afghanistan.</q></t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Қозидомулло зану додарӯсашонро монда, маро ҳамроҳ гирифтанд.</o>
+      <t><!-- dauther in law? dodarus: додари арўс ё зан нис- бат ба хешони домод ё шавњар.--></t>
+    </s>
+    <!-- Begin brief Kabul section -->
+    <s>
+      <o>Ба ду асп савор шуда, сӯи Кобул шудем.</o>
+      <t>And so we set out for Kabul on a pair of horses.</t>
+    </s>
+    <s>
+      <o>Баъди ба Кобул расидан Қозидомуллоро ба ҳузури подшоҳ даъват карда, ба Ҷалолобод қозӣ таёин
+        намуданд.</o>
+      <t>After arriving in Kabul Qazidamulla was summoned to an audience with the monarch, whereupon
+        he was appointed judge of Jalalabad.</t>
+    </s>
+    <s>
+      <o>Ману Қозидомулло ба шаҳри Ҷалолобод рафтем.</o>
+      <t>And so Qazidamulla and I went to the city of Jalalabad.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Ҳангоми дар Кобул буданамон аспи Қозидомуллоро дар сарой бастем.</o>
+      <t>While we were in Kabul, we had stabled Qazidamulla's horse in a caravansarai.</t>
+    </s>
+    <s>
+      <o>Аспи савораи маро фурӯхтем.</o>
+      <t>We sold the horse I had been riding.</t>
+    </s>
+    <s>
+      <o>Як рӯз ба сарои мо Мулло Фақир омад.</o>
+      <t>One day Mulla Faqir visited our caravansarai.</t>
+    </s>
+    <s>
+      <o>Аз он кас илтимос намуд, ки дар деҳаи мо хошоку беда фаровон аспро барам, як моҳ истанд,
+        фарбеҳ хоҳад шуд.</o>
+      <t><!--need to sort out the reported speech here, who mā is referring to; clear from the next sentence that it is Mulla Faqir doing the inviting--></t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Қозидомулло розӣ шуданд ва иҷозат доданд.</o>
+      <t>Qozidomulla agreed and offered his consent.</t>
+    </s>
+    <s>
+      <o>Аз Кобул 30 км дуртар миёни кӯҳ Сабз ном деҳа будааст.</o>
+      <t>Thirty kilometers past Kabul there was a village in the mountains by the name of Sabz</t>
+    </s>
+    <s>
+      <o>Дар ҳамин деҳа як моҳ мондем.</o>
+      <t>We stayed in that village for one month,.</t>
+    </s>
+    <s>
+      <o>Обу ҳавояш хуб, салқин, аз кӯҳ об ҷорӣ мешавад хеле хунук, тутҳо пӯхта буданд.</o>
+      <t>The weather was pleasant, cool, and the water running down from the mountains was cool, the
+        berries were ripe.</t>
+    </s>
+    <s>
+      <o>Мулло Фақир дар масҷид ба ибодат машғул мешуд.</o>
+      <t>Mulla Faqir spent his time worshipping at the mosque.</t>
+    </s>
+    <s>
+      <o>Баъди як моҳ баргафта ба Кобул омадем.</o>
+      <t>After one month we came back to Kabul.</t>
+    </s>
+    <s>
+      <o>Мулло Фақир хайру хуш карда, ҷудо шуд.</o>
+      <t>Mulla Fqqir wished us well and parted ways.</t>
+      <!--check translation of хайру хуш карда-->
+    </s>
+    <s>
+      <o>Баъди ба Чалолодбод қозӣ шудани Қозидомулло дар деҳаи сари роҳ Нақиб Соҳиб ном як пир
+        буд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Араб, аз Бағдод омада будаанд.</o>
+      <t>He was an Arab from Baghdad.</t>
+    </s>
+  </p>
+  <p>
+    <s>
+      <o>Қозидомулло барои зиёрати Нақиб Соҳиб ба ҳамин деҳа омаданд.</o>
+      <t>Qazidamulla came to this very village to visit Naqib Sahib.</t>
+    </s>
+    <s>
+      <o>Подшоҳ ҳам муриди ҳамин Пир будааст.</o>
+      <t>The king [of Afghanistan] was also a disciple of [Naqib Sahib].</t>
+    </s>
+    <s>
+      <o>Зиёрат кардем.</o>
+      <t>And so we visited him.</t>
+    </s>
+    <s>
+      <o>Қозидомулло ба Нақиб Соҳиб арабӣ сӯҳбат карданд.</o>
+      <t>Qazidamulla some with Naqib Sahib in Arabic.</t>
+    </s>
+    <s>
+      <o>Як соат сӯҳбат карданд, баъди иҷозат ба Ҷалолобод роҳ пеш гирифтем.</o>
+      <t>They spoke for one hour, then we took our leave and headed toward Jalalabad.</t>
+    </s>
+    <s>
+      <o>Аз рӯи ҳикояи аҳли деҳ ин шахс Соҳиби каромат будаанд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Дар Ҷалолобод ба Қозидомулло аз тарафи давлат ҳавлӣ доданд.</o>
+      <t>In Jalalabad a government villa was given to Qazidamulla.</t>
+    </s>
+    <s>
+      <o>Қозидомулло рӯзона ба маҳкама мерафтанд, ман бегоҳ хӯрок тайёр карда меистодам.</o>
+      <t><!--probably mahkama in this case means court case but check--></t>
+    </s>
+    <s>
+      <o>Пагоҳӣ ба ман дарс гуфта ба маҳкама мерафтанд.</o>
+      <t/>
+    </s>
+    <s>
+      <o>Ҳамин тариқ баъди чор моҳ зани Қозидомулло бо харҷи подшоҳ аз Тошканд омаданд.</o>
+      <t><!--kharj here probably means at the king of Afghanistan's expense but check--></t>
+    </s>
+    <s>
+      <o>Дар назди Қозидомулло ғайри ман дигар талаба набуд.</o>
+      <t>No other students remained with Qazidamulla other than me.</t>
+    </s>
+    <s>
+      <o>Қозидомулло <pg no="127"/> чунин қозии одил буданд, ки Абу Юсуфи дуввум гӯем, хато
+        намешуд.</o>
+      <t>Qazidamulla was so just that if we called him the second Abu Yusuf, it would not be an
+        error.</t>
+      <c type="hist">Alongside Abu Hanifa and Muhammad al-Shaybani, Abu Yusuf was one of three early
+        jurists who are constantly referenced in Hanafi law. Abu Yusuf also served as the chief
+        judge underthe Abbasid Calihp Harun al-Rashid, which is the comparison being drawn here.</c>
+    </s>
+  </p>
+
+
+
+
+
+
+
 </book>
+<!--
+  
+<p>
+  <s>
+    <o></o>
+    <t></t>
+  </s>
+</p>
+
+-->
